@@ -1,0 +1,33 @@
+[submodule "database"]
+	path = database
+	url = git://github.com/kohana/database.git
+[submodule "userguide"]
+	path = userguide
+	url = git://github.com/kohana/userguide.git
+[submodule "unittest"]
+	path = unittest
+	url = git://github.com/kohana/unittest.git
+[submodule "pagination"]
+	path = pagination
+	url = git://github.com/kohana/pagination.git
+[submodule "orm"]
+	path = orm
+	url = git://github.com/kohana/orm.git
+[submodule "oauth"]
+	path = oauth
+	url = git://github.com/kohana/oauth.git
+[submodule "image"]
+	path = image
+	url = git://github.com/kohana/image.git
+[submodule "codebench"]
+	path = codebench
+	url = git://github.com/kohana/codebench.git
+[submodule "cache"]
+	path = cache
+	url = git://github.com/kohana/cache.git
+[submodule "auth-driver-orm"]
+	path = auth-driver-orm
+	url = git://github.com/kohana/auth-driver-orm.git
+[submodule "auth"]
+	path = auth
+	url = git://github.com/kohana/auth.git
