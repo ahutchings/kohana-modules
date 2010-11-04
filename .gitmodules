@@ -31,3 +31,21 @@
 [submodule "auth"]
 	path = auth
 	url = git://github.com/kohana/auth.git
+[submodule "hive"]
+	path = hive
+	url = git://github.com/shadowhand/hive.git
+[submodule "tuffet"]
+	path = tuffet
+	url = git://github.com/shadowhand/tuffet.git
+[submodule "pdfview"]
+	path = pdfview
+	url = git://github.com/shadowhand/pdfview.git
+[submodule "todoist"]
+	path = todoist
+	url = git://github.com/shadowhand/kohana-todoist.git
+[submodule "gcheckout"]
+	path = gcheckout
+	url = git://github.com/shadowhand/gcheckout.git
+[submodule "paypal"]
+	path = paypal
+	url = git://github.com/shadowhand/paypal.git
