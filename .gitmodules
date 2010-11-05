@@ -139,3 +139,18 @@
 [submodule "debug"]
 	path = debug
 	url = git://github.com/synapsestudios/kohana-debug.git
+[submodule "mangodb"]
+	path = mangodb
+	url = git://github.com/Wouterrr/MangoDB.git
+[submodule "a1"]
+	path = a1
+	url = git://github.com/Wouterrr/A1.git
+[submodule "mangoqueue"]
+	path = mangoqueue
+	url = git://github.com/Wouterrr/mangoQueue.git
+[submodule "mangoutils"]
+	path = mangoutils
+	url = git://github.com/Wouterrr/MangoUtils.git
+[submodule "a2"]
+	path = a2
+	url = git://github.com/Wouterrr/A2.git
