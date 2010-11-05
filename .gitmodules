@@ -154,3 +154,60 @@
 [submodule "a2"]
 	path = a2
 	url = git://github.com/Wouterrr/A2.git
+[submodule "dispatcher"]
+	path = dispatcher
+	url = git://github.com/BRMatt/Kohana-Dispatcher.git
+[submodule "archive"]
+	path = archive
+	url = git://github.com/BRMatt/kohana-archive.git
+[submodule "table"]
+	path = table
+	url = git://github.com/kerkness/kohana-table.git
+[submodule "less"]
+	path = less
+	url = git://github.com/mongeslani/kohana-less.git
+[submodule "aacl"]
+	path = aacl
+	url = git://github.com/banks/aacl.git
+[submodule "authlite"]
+	path = authlite
+	url = git://github.com/fredwu/authlite.git
+[submodule "purifier"]
+	path = purifier
+	url = git://github.com/shadowhand/purifier.git
+[submodule "firephp"]
+	path = firephp
+	url = git://github.com/jeremyf76/KO3_FirePHP.git
+[submodule "xml"]
+	path = xml
+	url = git://github.com/ccazette/Kohana_XML.git
+[submodule "kohaml"]
+	path = kohaml
+	url = git://github.com/transphorm/kohaml.git
+[submodule "email"]
+	path = email
+	url = git://github.com/banks/kohana-email.git
+[submodule "xhtml"]
+	path = xhtml
+	url = git://github.com/glydetech/ko3.xhtml.git
+[submodule "calendar"]
+	path = calendar
+	url = git://github.com/antpaw/kohana_calendar.git
+[submodule "glue-orm"]
+	path = glue-orm
+	url = git://github.com/rlm80/glue-orm.git
+[submodule "b8"]
+	path = b8
+	url = git://github.com/stensi/Kohana-B8.git
+[submodule "message"]
+	path = message
+	url = git://github.com/daveWid/message.git
+[submodule "gui"]
+	path = gui
+	url = git://github.com/kerkness/gui.git
+[submodule "console"]
+	path = console
+	url = git://github.com/daveWid/console.git
+[submodule "rbac"]
+	path = rbac
+	url = git://github.com/lzyy/kohana-rbac.git
