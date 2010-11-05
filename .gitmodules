@@ -49,3 +49,45 @@
 [submodule "paypal"]
 	path = paypal
 	url = git://github.com/shadowhand/paypal.git
+[submodule "admin"]
+	path = admin
+	url = git://github.com/vimofthevine/kohana-admin.git
+[submodule "notices"]
+	path = notices
+	url = git://github.com/synapsestudios/kohana-notices.git
+[submodule "csrf"]
+	path = csrf
+	url = git://github.com/synapsestudios/kohana-csrf.git
+[submodule "errors"]
+	path = errors
+	url = git://github.com/synapsestudios/kohana-errors.git
+[submodule "yform"]
+	path = yform
+	url = git://github.com/Zeelot/kohana-yform.git
+[submodule "config.json"]
+	path = config.json
+	url = git://github.com/Zeelot/kohana-config.json.git
+[submodule "auth.net-arb"]
+	path = auth.net-arb
+	url = git://github.com/Zeelot/kohana-auth.net-arb.git
+[submodule "assets"]
+	path = assets
+	url = git://github.com/Zeelot/kohana-assets.git
+[submodule "event"]
+	path = event
+	url = git://github.com/Zeelot/event.git
+[submodule "kostache"]
+	path = kostache
+	url = git://github.com/zombor/KOstache.git
+[submodule "auto-modeler"]
+	path = auto-modeler
+	url = git://github.com/zombor/Auto-Modeler.git
+[submodule "lastfm"]
+	path = lastfm
+	url = git://github.com/zombor/lastfm.git
+[submodule "sprig"]
+	path = sprig
+	url = git://github.com/sittercity/sprig.git
+[submodule "gravatar"]
+	path = gravatar
+	url = git://github.com/samsoir/kohana-gravatar.git
