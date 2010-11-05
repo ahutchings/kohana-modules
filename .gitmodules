@@ -91,3 +91,51 @@
 [submodule "gravatar"]
 	path = gravatar
 	url = git://github.com/samsoir/kohana-gravatar.git
+[submodule "sitemap"]
+	path = sitemap
+	url = git://github.com/ThePixelDeveloper/kohana-sitemap.git
+[submodule "cron"]
+	path = cron
+	url = git://github.com/cbandy/kohana-cron.git
+[submodule "shindig"]
+	path = shindig
+	url = git://github.com/kerkness/shindig.git
+[submodule "formo"]
+	path = formo
+	url = git://github.com/bmidget/kohana-formo.git
+[submodule "captcha"]
+	path = captcha
+	url = git://github.com/kolanos/kohana-captcha.git
+[submodule "asset"]
+	path = asset
+	url = git://github.com/jonathangeiger/kohana-asset.git
+[submodule "jelly"]
+	path = jelly
+	url = git://github.com/jonathangeiger/kohana-jelly.git
+[submodule "twig"]
+	path = twig
+	url = git://github.com/jonathangeiger/kohana-twig.git
+[submodule "migration"]
+	path = migration
+	url = git://github.com/ollym/migration.git
+[submodule "daemon"]
+	path = daemon
+	url = git://github.com/ollym/daemon.git
+[submodule "dbforge"]
+	path = dbforge
+	url = git://github.com/ollym/dbforge.git
+[submodule "doctrinemigrations"]
+	path = doctrinemigrations
+	url = git://github.com/synapsestudios/kohana-doctrinemigrations.git
+[submodule "acl"]
+	path = acl
+	url = git://github.com/synapsestudios/kohana-acl.git
+[submodule "jssettings"]
+	path = jssettings
+	url = git://github.com/synapsestudios/kohana-jssettings.git
+[submodule "ipsum"]
+	path = ipsum
+	url = git://github.com/synapsestudios/kohana-ipsum.git
+[submodule "debug"]
+	path = debug
+	url = git://github.com/synapsestudios/kohana-debug.git
