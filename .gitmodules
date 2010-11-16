@@ -241,3 +241,18 @@
 [submodule "konilla"]
 	path = konilla
 	url = git://github.com/birkir/konilla.git
+[submodule "lang"]
+	path = lang
+	url = git://github.com/GeertDD/kohana-lang.git
+[submodule "message1"]
+	path = message1
+	url = git://github.com/GeertDD/kohana-message.git
+[submodule "slicehost"]
+	path = slicehost
+	url = git://github.com/transphorm/slicehost.git
+[submodule "twitter"]
+	path = twitter
+	url = git://github.com/transphorm/twitter.git
+[submodule "github"]
+	path = github
+	url = git://github.com/transphorm/github.git
