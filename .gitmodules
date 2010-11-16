@@ -271,3 +271,27 @@
 [submodule "geocode"]
 	path = geocode
 	url = git://github.com/kolanos/kohana-geocode.git
+[submodule "phamlp"]
+	path = phamlp
+	url = git://github.com/fredwu/kohana-phamlp.git
+[submodule "gmaps"]
+	path = gmaps
+	url = git://github.com/guillermin/gmaps.git
+[submodule "aws"]
+	path = aws
+	url = git://github.com/jylinman/kohana-aws.git
+[submodule "notify"]
+	path = notify
+	url = git://github.com/kaltar/Notify.git
+[submodule "depends"]
+	path = depends
+	url = git://github.com/slik/Kohana-depends.git
+[submodule "comments"]
+	path = comments
+	url = git://github.com/vimofthevine/kohana-comments.git
+[submodule "yada"]
+	path = yada
+	url = git://github.com/jeremyf76/yada.git
+[submodule "facebook"]
+	path = facebook
+	url = git://github.com/jeremyf76/kohana-facebook.git
