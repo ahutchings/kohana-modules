@@ -256,3 +256,18 @@
 [submodule "github"]
 	path = github
 	url = git://github.com/transphorm/github.git
+[submodule "search"]
+	path = search
+	url = git://github.com/evopix/kohana-search.git
+[submodule "orm-mptt"]
+	path = orm-mptt
+	url = git://github.com/evopix/orm-mptt.git
+[submodule "database-sqlite"]
+	path = database-sqlite
+	url = git://github.com/evopix/kohana-database-sqlite.git
+[submodule "zend"]
+	path = zend
+	url = git://github.com/kolanos/kohana-zend.git
+[submodule "geocode"]
+	path = geocode
+	url = git://github.com/kolanos/kohana-geocode.git
