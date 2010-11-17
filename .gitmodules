@@ -295,3 +295,24 @@
 [submodule "facebook"]
 	path = facebook
 	url = git://github.com/jeremyf76/kohana-facebook.git
+[submodule "smarty"]
+	path = smarty
+	url = git://github.com/MrAnchovy/kohana-module-smarty.git
+[submodule "sentry"]
+	path = sentry
+	url = git://github.com/vimofthevine/sentry.git
+[submodule "vk"]
+	path = vk
+	url = git://github.com/Slaver/vk.git
+[submodule "cdm"]
+	path = cdm
+	url = git://github.com/jylinman/kohana-cdm.git
+[submodule "pigeon"]
+	path = pigeon
+	url = git://github.com/loonies/kohana-pigeon.git
+[submodule "phpass"]
+	path = phpass
+	url = git://github.com/Riu/phpass.git
+[submodule "kthrottler"]
+	path = kthrottler
+	url = git://github.com/fredwu/kthrottler.git
