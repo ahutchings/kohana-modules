@@ -583,3 +583,27 @@
 [submodule "sphinxql"]
 	path = sphinxql
 	url = git://github.com/MasterCJ/kohana-sphinxql.git
+[submodule "transfer"]
+	path = transfer
+	url = git://github.com/javierav/transfer.git
+[submodule "kotal"]
+	path = kotal
+	url = git://github.com/Dismounted/KOtal.git
+[submodule "wsdl"]
+	path = wsdl
+	url = git://github.com/misa/kohana-wsdl.git
+[submodule "new-auth"]
+	path = new-auth
+	url = git://github.com/biakaveron/new-auth.git
+[submodule "curl"]
+	path = curl
+	url = git://github.com/AlexKupreev/kohana-curl.git
+[submodule "mangodemo"]
+	path = mangodemo
+	url = git://github.com/Wouterrr/MangoDemo.git
+[submodule "migrations"]
+	path = migrations
+	url = git://github.com/jmhobbs/kohana-3-migrations.git
+[submodule "ed_admin"]
+	path = ed_admin
+	url = git://github.com/smgladkovskiy/ed_admin.git
