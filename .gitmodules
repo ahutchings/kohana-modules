@@ -388,3 +388,42 @@
 [submodule "sftemplating"]
 	path = sftemplating
 	url = git://github.com/praxxis/sftemplating.git
+[submodule "minify"]
+	path = minify
+	url = git://github.com/zazu/minify.git
+[submodule "xdatabase"]
+	path = xdatabase
+	url = git://github.com/approots/xdatabase.git
+[submodule "seo"]
+	path = seo
+	url = git://github.com/glamorous/kohana-seo.git
+[submodule "tags"]
+	path = tags
+	url = git://github.com/glydetech/ko3.tags.git
+[submodule "bamboo"]
+	path = bamboo
+	url = git://github.com/vitch/bamboo.git
+[submodule "layout"]
+	path = layout
+	url = git://github.com/marcalj/kohana-layout.git
+[submodule "dbnav"]
+	path = dbnav
+	url = git://github.com/tayles/kohana-dbnav.git
+[submodule "pngtext"]
+	path = pngtext
+	url = git://github.com/jheathco/kohana-pngtext.git
+[submodule "formo-jelly"]
+	path = formo-jelly
+	url = git://github.com/bmidget/kohana-formo-jelly.git
+[submodule "storage"]
+	path = storage
+	url = git://github.com/cbandy/kohana-storage.git
+[submodule "editor"]
+	path = editor
+	url = git://github.com/biakaveron/editor.git
+[submodule "plater"]
+	path = plater
+	url = git://github.com/homm/plater.git
+[submodule "thumbler"]
+	path = thumbler
+	url = git://github.com/homm/thumbler.git
