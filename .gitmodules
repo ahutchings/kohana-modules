@@ -457,3 +457,18 @@
 [submodule "wordpress"]
 	path = wordpress
 	url = git://github.com/kerkness/wordpress-for-kohana.git
+[submodule "fbapi"]
+	path = fbapi
+	url = git://github.com/ryross/fbapi.git
+[submodule "douban"]
+	path = douban
+	url = git://github.com/icyleaf/douban.git
+[submodule "cheatsheet"]
+	path = cheatsheet
+	url = git://github.com/AlexKupreev/kohana-cheatsheet.git
+[submodule "convert"]
+	path = convert
+	url = git://github.com/transphorm/convert.git
+[submodule "params"]
+	path = params
+	url = git://github.com/TdroL/kohana-params.git
