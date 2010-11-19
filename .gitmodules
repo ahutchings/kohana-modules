@@ -427,3 +427,33 @@
 [submodule "thumbler"]
 	path = thumbler
 	url = git://github.com/homm/thumbler.git
+[submodule "mssql"]
+	path = mssql
+	url = git://github.com/xrado/kohana-mssql.git
+[submodule "konsole"]
+	path = konsole
+	url = git://github.com/icyleaf/konsole.git
+[submodule "blog"]
+	path = blog
+	url = git://github.com/vimofthevine/kohana-blog.git
+[submodule "dbmanager"]
+	path = dbmanager
+	url = git://github.com/icyleaf/dbmanager.git
+[submodule "postgresql"]
+	path = postgresql
+	url = git://github.com/cbandy/kohana-postgresql.git
+[submodule "menu"]
+	path = menu
+	url = git://github.com/b263/kohana-menu.git
+[submodule "gdata"]
+	path = gdata
+	url = git://github.com/JustLikeIcarus/kohana-gdata.git
+[submodule "simplestats"]
+	path = simplestats
+	url = git://github.com/creatoro/kohana-simplestats.git
+[submodule "super-cache"]
+	path = super-cache
+	url = git://github.com/FerumFlex/kohana-super-cache.git
+[submodule "wordpress"]
+	path = wordpress
+	url = git://github.com/kerkness/wordpress-for-kohana.git
