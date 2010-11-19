@@ -607,3 +607,30 @@
 [submodule "ed_admin"]
 	path = ed_admin
 	url = git://github.com/smgladkovskiy/ed_admin.git
+[submodule "twitteroauth"]
+	path = twitteroauth
+	url = git://github.com/antpaw/kohana_twitteroauth.git
+[submodule "event2"]
+	path = event2
+	url = git://github.com/samsoir/kohana-event.git
+[submodule "orm_mptt"]
+	path = orm_mptt
+	url = git://github.com/kiall/kohana3-orm_mptt.git
+[submodule "pagination1"]
+	path = pagination1
+	url = git://github.com/ollym/pagination.git
+[submodule "authorizenet"]
+	path = authorizenet
+	url = git://github.com/jordanthomas/kohana-authorizenet.git
+[submodule "database-advanced"]
+	path = database-advanced
+	url = git://github.com/Lowgain/kohana-database-advanced.git
+[submodule "configuration"]
+	path = configuration
+	url = git://github.com/Yahasana/Kohana-Configuration.git
+[submodule "wizardform"]
+	path = wizardform
+	url = git://github.com/MLukman/kohana3_wizardform.git
+[submodule "spot_image"]
+	path = spot_image
+	url = git://github.com/PaNtHeR/Spot_image.git
