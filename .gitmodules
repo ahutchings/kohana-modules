@@ -472,3 +472,30 @@
 [submodule "params"]
 	path = params
 	url = git://github.com/TdroL/kohana-params.git
+[submodule "devtools"]
+	path = devtools
+	url = git://github.com/bluehawk/devtools.git
+[submodule "azimauth"]
+	path = azimauth
+	url = git://github.com/tommusic/Kohana-Azimauth.git
+[submodule "gearman"]
+	path = gearman
+	url = git://github.com/kiall/kohana3-gearman.git
+[submodule "xview"]
+	path = xview
+	url = git://github.com/towfx/Xview.git
+[submodule "formojs"]
+	path = formojs
+	url = git://github.com/leth/formoJS.git
+[submodule "morf"]
+	path = morf
+	url = git://github.com/samsoir/morf.git
+[submodule "cms-library"]
+	path = cms-library
+	url = git://github.com/rjd22/Kohana-CMS-Library.git
+[submodule "presto"]
+	path = presto
+	url = git://github.com/daveWid/presto.git
+[submodule "jelly-tests"]
+	path = jelly-tests
+	url = git://github.com/jonathangeiger/jelly-tests.git
