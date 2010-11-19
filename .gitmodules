@@ -553,3 +553,33 @@
 [submodule "log"]
 	path = log
 	url = git://github.com/lzyy/kohana-log.git
+[submodule "facebook1"]
+	path = facebook1
+	url = git://github.com/zombor/Kohana-Facebook.git
+[submodule "devilities"]
+	path = devilities
+	url = git://github.com/BRMatt/Devilities.git
+[submodule "sphinx"]
+	path = sphinx
+	url = git://github.com/Zoxive/SphinxKohana.git
+[submodule "webdb"]
+	path = webdb
+	url = git://github.com/samwilson/kohana_webdb.git
+[submodule "cms"]
+	path = cms
+	url = git://github.com/vimofthevine/kohana-cms.git
+[submodule "real-database"]
+	path = real-database
+	url = git://github.com/cbandy/real-database.git
+[submodule "less1"]
+	path = less1
+	url = git://github.com/jeremeamia/kohana-less.git
+[submodule "i18n_plural"]
+	path = i18n_plural
+	url = git://github.com/czukowski/I18n_Plural.git
+[submodule "imap"]
+	path = imap
+	url = git://github.com/kolanos/kohana-imap.git
+[submodule "sphinxql"]
+	path = sphinxql
+	url = git://github.com/MasterCJ/kohana-sphinxql.git
