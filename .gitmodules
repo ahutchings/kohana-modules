@@ -316,3 +316,42 @@
 [submodule "kthrottler"]
 	path = kthrottler
 	url = git://github.com/fredwu/kthrottler.git
+[submodule "tim"]
+	path = tim
+	url = git://github.com/Xobb/TIM-for-kohana-3.git
+[submodule "task-queue"]
+	path = task-queue
+	url = git://github.com/jonnyjon/Task-Queue.git
+[submodule "langify"]
+	path = langify
+	url = git://github.com/hinton/langify.git
+[submodule "multiformat"]
+	path = multiformat
+	url = git://github.com/Lowgain/kohana_multiformat.git
+[submodule "epoxy"]
+	path = epoxy
+	url = git://github.com/samsoir/kohana-epoxy.git
+[submodule "calais"]
+	path = calais
+	url = git://github.com/kolanos/kohana-calais.git
+[submodule "ajax"]
+	path = ajax
+	url = git://github.com/28litres/ajax.git
+[submodule "akismet"]
+	path = akismet
+	url = git://github.com/Greenek/kohana3-akismet.git
+[submodule "charts"]
+	path = charts
+	url = git://github.com/ae0000/kohana-charts.git
+[submodule "codegen"]
+	path = codegen
+	url = git://github.com/Yahasana/Kohana-Codegen.git
+[submodule "oauth20"]
+	path = oauth20
+	url = git://github.com/Yahasana/OAuth-2.0.git
+[submodule "batch"]
+	path = batch
+	url = git://github.com/rlm80/Kohana-Batch.git
+[submodule "solr"]
+	path = solr
+	url = git://github.com/Zoxive/Kohana-Solr.git
