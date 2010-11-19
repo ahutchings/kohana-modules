@@ -499,3 +499,57 @@
 [submodule "jelly-tests"]
 	path = jelly-tests
 	url = git://github.com/jonathangeiger/jelly-tests.git
+[submodule "dom-query"]
+	path = dom-query
+	url = git://github.com/samsoir/kohana-dom-query.git
+[submodule "date"]
+	path = date
+	url = git://github.com/BRMatt/kohana-date.git
+[submodule "firephp1"]
+	path = firephp1
+	url = git://github.com/pedrosland/kohana-firephp.git
+[submodule "flashdatanator"]
+	path = flashdatanator
+	url = git://github.com/dyson/flashdatanator.git
+[submodule "kohanut-core"]
+	path = kohanut-core
+	url = git://github.com/bluehawk/kohanut-core.git
+[submodule "circuit-breaker"]
+	path = circuit-breaker
+	url = git://github.com/samsoir/kohana-circuit-breaker.git
+[submodule "debug-toolbar"]
+	path = debug-toolbar
+	url = git://github.com/biakaveron/debug-toolbar.git
+[submodule "amfphp"]
+	path = amfphp
+	url = git://github.com/jylinman/kohana-amfphp.git
+[submodule "dblog"]
+	path = dblog
+	url = git://github.com/b263/kohana-dblog.git
+[submodule "notice"]
+	path = notice
+	url = git://github.com/loonies/kohana-notice.git
+[submodule "event1"]
+	path = event1
+	url = git://github.com/ollym/event.git
+[submodule "mailer"]
+	path = mailer
+	url = git://github.com/themusicman/Mailer.git
+[submodule "validation"]
+	path = validation
+	url = git://github.com/themusicman/Validation.git
+[submodule "mongodb-php-odm"]
+	path = mongodb-php-odm
+	url = git://github.com/colinmollenhour/mongodb-php-odm.git
+[submodule "view"]
+	path = view
+	url = git://github.com/zombor/Kohana-View.git
+[submodule "webclient"]
+	path = webclient
+	url = git://github.com/SyrusAkbary/Webclient-Kohana.git
+[submodule "geoip3"]
+	path = geoip3
+	url = git://github.com/ryross/geoip3.git
+[submodule "log"]
+	path = log
+	url = git://github.com/lzyy/kohana-log.git
