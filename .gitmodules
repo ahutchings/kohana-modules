@@ -355,3 +355,36 @@
 [submodule "solr"]
 	path = solr
 	url = git://github.com/Zoxive/Kohana-Solr.git
+[submodule "sprig-auth"]
+	path = sprig-auth
+	url = git://github.com/banks/sprig-auth.git
+[submodule "acl1"]
+	path = acl1
+	url = git://github.com/Wouterrr/ACL.git
+[submodule "sprig-mptt"]
+	path = sprig-mptt
+	url = git://github.com/banks/sprig-mptt.git
+[submodule "grid"]
+	path = grid
+	url = git://github.com/vimofthevine/grid.git
+[submodule "versioned"]
+	path = versioned
+	url = git://github.com/vimofthevine/versioned.git
+[submodule "geshi"]
+	path = geshi
+	url = git://github.com/JustLikeIcarus/kohana-geshi.git
+[submodule "jelly-mptt"]
+	path = jelly-mptt
+	url = git://github.com/AlexKupreev/jelly-mptt.git
+[submodule "twig1"]
+	path = twig1
+	url = git://github.com/jheathco/kohana-twig.git
+[submodule "jelly-torn"]
+	path = jelly-torn
+	url = git://github.com/TdroL/kohana-jelly-torn.git
+[submodule "jelly-filtered"]
+	path = jelly-filtered
+	url = git://github.com/leth/jelly-filtered.git
+[submodule "sftemplating"]
+	path = sftemplating
+	url = git://github.com/praxxis/sftemplating.git
