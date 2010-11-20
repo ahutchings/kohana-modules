@@ -652,3 +652,6 @@
 [submodule "orm-mp"]
 	path = orm-mp
 	url = git://github.com/theshock/kohana-orm-mp.git
+[submodule "database-sqlsrv"]
+	path = database-sqlsrv
+	url = git://github.com/samsoir/kohana-database-sqlsrv.git
