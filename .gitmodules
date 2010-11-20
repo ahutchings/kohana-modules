@@ -640,3 +640,15 @@
 [submodule "sink"]
 	path = sink
 	url = git://github.com/vimofthevine/sink.git
+[submodule "demo"]
+	path = demo
+	url = git://github.com/kerkness/kohana-demo.git
+[submodule "docs"]
+	path = docs
+	url = git://github.com/bluehawk/kohana3docs.git
+[submodule "jelly-reverse-engineer"]
+	path = jelly-reverse-engineer
+	url = git://github.com/tayles/kohana-jelly-reverse-engineer.git
+[submodule "orm-mp"]
+	path = orm-mp
+	url = git://github.com/theshock/kohana-orm-mp.git
