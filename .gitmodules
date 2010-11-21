@@ -655,3 +655,36 @@
 [submodule "database-sqlsrv"]
 	path = database-sqlsrv
 	url = git://github.com/samsoir/kohana-database-sqlsrv.git
+[submodule "koredis-config"]
+	path = koredis-config
+	url = git://github.com/benhaan/koredis-config.git
+[submodule "zform"]
+	path = zform
+	url = git://github.com/Azuka/ZForm.git
+[submodule "ffmpeg"]
+	path = ffmpeg
+	url = git://github.com/destos/kohana-ffmpeg.git
+[submodule "youtube"]
+	path = youtube
+	url = git://github.com/elrolito/kohana-youtube.git
+[submodule "uniform"]
+	path = uniform
+	url = git://github.com/rafsoaken/Kohana-uniform.git
+[submodule "rss"]
+	path = rss
+	url = git://github.com/rafsoaken/kohana-rss.git
+[submodule "db"]
+	path = db
+	url = git://github.com/chrismeller/db.git
+[submodule "template"]
+	path = template
+	url = git://github.com/elrolito/template.git
+[submodule "killeradmin"]
+	path = killeradmin
+	url = git://github.com/digibart/killeradmin.git
+[submodule "route-tester"]
+	path = route-tester
+	url = git://github.com/RaymondCrandall/kohana-route-tester.git
+[submodule "twilio"]
+	path = twilio
+	url = git://github.com/destos/kohana-twilio.git
