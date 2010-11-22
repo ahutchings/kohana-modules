@@ -688,3 +688,21 @@
 [submodule "twilio"]
 	path = twilio
 	url = git://github.com/destos/kohana-twilio.git
+[submodule "imagemagick-driver"]
+	path = imagemagick-driver
+	url = git://github.com/joelpittet/kohana-imagemagick-driver.git
+[submodule "former"]
+	path = former
+	url = git://github.com/homm/former.git
+[submodule "csrf1"]
+	path = csrf1
+	url = git://github.com/evopix/csrf.git
+[submodule "swift"]
+	path = swift
+	url = git://github.com/ginad/swift.git
+[submodule "namespace-routes"]
+	path = namespace-routes
+	url = git://github.com/sittercity/Kohana-Namespace-Routes.git
+[submodule "captcha1"]
+	path = captcha1
+	url = git://github.com/Yahasana/Kohana-Captcha.git
