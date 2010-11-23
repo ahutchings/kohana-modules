@@ -706,3 +706,21 @@
 [submodule "captcha1"]
 	path = captcha1
 	url = git://github.com/Yahasana/Kohana-Captcha.git
+[submodule "oai"]
+	path = oai
+	url = git://github.com/wadechristie/kohana-oai.git
+[submodule "kform"]
+	path = kform
+	url = git://github.com/wadechristie/kohana-kform.git
+[submodule "uk-bank-modulus"]
+	path = uk-bank-modulus
+	url = git://github.com/kiddivouchers/uk-bank-modulus.git
+[submodule "config-yaml"]
+	path = config-yaml
+	url = git://github.com/dleavitt/kohana-config-yaml.git
+[submodule "githubapi"]
+	path = githubapi
+	url = git://github.com/bobeagan/kohana-githubapi.git
+[submodule "authnet"]
+	path = authnet
+	url = git://github.com/ObjectiveCompany/AuthNet.git
