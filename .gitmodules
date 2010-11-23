@@ -724,3 +724,12 @@
 [submodule "authnet"]
 	path = authnet
 	url = git://github.com/ObjectiveCompany/AuthNet.git
+[submodule "fusion"]
+	path = fusion
+	url = git://github.com/melvinmt/KO3-Fusion.git
+[submodule "dt"]
+	path = dt
+	url = git://github.com/burningtree/kohana-dt.git
+[submodule "assets1"]
+	path = assets1
+	url = git://github.com/drhevans/kohana3-module--assets.git
