@@ -733,3 +733,6 @@
 [submodule "assets1"]
 	path = assets1
 	url = git://github.com/drhevans/kohana3-module--assets.git
+[submodule "pajas"]
+	path = pajas
+	url = git://github.com/lillem4n/kohana-module-pajas.git
