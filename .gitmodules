@@ -736,3 +736,15 @@
 [submodule "pajas"]
 	path = pajas
 	url = git://github.com/lillem4n/kohana-module-pajas.git
+[submodule "shoutcast"]
+	path = shoutcast
+	url = git://github.com/gachowy/shoutcast.git
+[submodule "scaffold"]
+	path = scaffold
+	url = git://github.com/kanema/kohana-scaffold.git
+[submodule "paypal1"]
+	path = paypal1
+	url = git://github.com/Austinb/Paypal.git
+[submodule "task-daemon"]
+	path = task-daemon
+	url = git://github.com/Austinb/Task-Daemon.git
