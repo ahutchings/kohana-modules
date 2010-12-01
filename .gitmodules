@@ -748,3 +748,12 @@
 [submodule "task-daemon"]
 	path = task-daemon
 	url = git://github.com/Austinb/Task-Daemon.git
+[submodule "i18n-date"]
+	path = i18n-date
+	url = git://github.com/daniloassis/ko3-i18n-date.git
+[submodule "menustructure"]
+	path = menustructure
+	url = git://github.com/ivansf/menustructure.git
+[submodule "config-yaml1"]
+	path = config-yaml1
+	url = git://github.com/burningtree/kohana-config-yaml.git
