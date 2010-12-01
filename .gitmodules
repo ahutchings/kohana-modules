@@ -757,3 +757,12 @@
 [submodule "config-yaml1"]
 	path = config-yaml1
 	url = git://github.com/burningtree/kohana-config-yaml.git
+[submodule "sso"]
+	path = sso
+	url = git://github.com/creatoro/kohana-sso.git
+[submodule "mpdf"]
+	path = mpdf
+	url = git://github.com/ener/mpdf.git
+[submodule "ckeditor"]
+	path = ckeditor
+	url = git://github.com/drhevans/kohana-module--ckeditor.git
