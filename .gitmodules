@@ -766,3 +766,15 @@
 [submodule "ckeditor"]
 	path = ckeditor
 	url = git://github.com/drhevans/kohana-module--ckeditor.git
+[submodule "zendamf"]
+	path = zendamf
+	url = git://github.com/elrolito/zendamf-for-kohana.git
+[submodule "calendar1"]
+	path = calendar1
+	url = git://github.com/tapvt/ko3-calendar.git
+[submodule "notice1"]
+	path = notice1
+	url = git://github.com/kierangraham/Notice.git
+[submodule "email1"]
+	path = email1
+	url = git://github.com/woldi/kohana_email.git
