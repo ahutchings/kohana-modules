@@ -778,3 +778,21 @@
 [submodule "email1"]
 	path = email1
 	url = git://github.com/woldi/kohana_email.git
+[submodule "utilities"]
+	path = utilities
+	url = git://github.com/drhevans/kohana3-module--utilities.git
+[submodule "admin1"]
+	path = admin1
+	url = git://github.com/badsyntax/kohana3-admin.git
+[submodule "yamaps"]
+	path = yamaps
+	url = git://github.com/smgladkovskiy/kohana-yamaps.git
+[submodule "ipbwi"]
+	path = ipbwi
+	url = git://github.com/smgladkovskiy/kohana-ipbwi.git
+[submodule "static"]
+	path = static
+	url = git://github.com/halkeye/kohana-static.git
+[submodule "rpxnow"]
+	path = rpxnow
+	url = git://github.com/marcobarbosa/kohana-rpxnow.git
