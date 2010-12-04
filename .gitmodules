@@ -796,3 +796,39 @@
 [submodule "rpxnow"]
 	path = rpxnow
 	url = git://github.com/marcobarbosa/kohana-rpxnow.git
+[submodule "aznrates"]
+	path = aznrates
+	url = git://github.com/NARKOZ/kohana-aznrates.git
+[submodule "mesh"]
+	path = mesh
+	url = git://github.com/sultano/mesh.git
+[submodule "flash"]
+	path = flash
+	url = git://github.com/acidtv/Kohana-Flash.git
+[submodule "mypay"]
+	path = mypay
+	url = git://github.com/ginad/mypay.git
+[submodule "runlive"]
+	path = runlive
+	url = git://github.com/RunLive/runlive.git
+[submodule "backend"]
+	path = backend
+	url = git://github.com/xcopy/backend.git
+[submodule "krush"]
+	path = krush
+	url = git://github.com/gevans/kohana-krush.git
+[submodule "jelly-rauth"]
+	path = jelly-rauth
+	url = git://github.com/AlexKupreev/jelly-rauth.git
+[submodule "falcon"]
+	path = falcon
+	url = git://github.com/daveWid/falcon.git
+[submodule "authenticate"]
+	path = authenticate
+	url = git://github.com/daveWid/authenticate.git
+[submodule "flickr"]
+	path = flickr
+	url = git://github.com/jeanmask/flickr.git
+[submodule "flexsdb"]
+	path = flexsdb
+	url = git://github.com/melvinmt/FlexSDB.git
