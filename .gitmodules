@@ -832,3 +832,24 @@
 [submodule "flexsdb"]
 	path = flexsdb
 	url = git://github.com/melvinmt/FlexSDB.git
+[submodule "cache1"]
+	path = cache1
+	url = git://github.com/Nergal/KO3-Cache.git
+[submodule "kladr"]
+	path = kladr
+	url = git://github.com/smgladkovskiy/kohana-kladr.git
+[submodule "acl2"]
+	path = acl2
+	url = git://github.com/smgladkovskiy/kohana-acl.git
+[submodule "kcss"]
+	path = kcss
+	url = git://github.com/alexgisby/kCSS.git
+[submodule "mauth"]
+	path = mauth
+	url = git://github.com/alexgisby/MAuth.git
+[submodule "imageplus"]
+	path = imageplus
+	url = git://github.com/alexgisby/Kohana-ImagePlus.git
+[submodule "facebook2"]
+	path = facebook2
+	url = git://github.com/kemo/facebook.git
