@@ -853,3 +853,18 @@
 [submodule "facebook2"]
 	path = facebook2
 	url = git://github.com/kemo/facebook.git
+[submodule "cl4"]
+	path = cl4
+	url = git://github.com/graphis/cl4.git
+[submodule "webservice"]
+	path = webservice
+	url = git://github.com/pix0r/kohana-webservice.git
+[submodule "jxloader"]
+	path = jxloader
+	url = git://github.com/jonlb/jxLoader-kohana.git
+[submodule "stomp"]
+	path = stomp
+	url = git://github.com/phostr/kohana-stomp.git
+[submodule "ktwig"]
+	path = ktwig
+	url = git://github.com/Leemo/kTwig.git
