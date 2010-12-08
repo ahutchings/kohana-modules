@@ -868,3 +868,15 @@
 [submodule "ktwig"]
 	path = ktwig
 	url = git://github.com/Leemo/kTwig.git
+[submodule "template-mailer"]
+	path = template-mailer
+	url = git://github.com/czukowski/template-mailer.git
+[submodule "kollapse"]
+	path = kollapse
+	url = git://github.com/gevans/kohana-kollapse.git
+[submodule "files-banc"]
+	path = files-banc
+	url = git://github.com/kippel/files-banc.git
+[submodule "latlng"]
+	path = latlng
+	url = git://github.com/azampagl/kohana-latlng.git
