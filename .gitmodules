@@ -880,3 +880,18 @@
 [submodule "latlng"]
 	path = latlng
 	url = git://github.com/azampagl/kohana-latlng.git
+[submodule "imagemagick-driver1"]
+	path = imagemagick-driver1
+	url = git://github.com/tmihalik/kohana-imagemagick-driver.git
+[submodule "search-jelly"]
+	path = search-jelly
+	url = git://github.com/chiurlo/kohana-search-jelly.git
+[submodule "gravatar1"]
+	path = gravatar1
+	url = git://github.com/davidvandertuijn/gravatar.git
+[submodule "activerecord"]
+	path = activerecord
+	url = git://github.com/Kofel/kohana-activerecord.git
+[submodule "kwalbum"]
+	path = kwalbum
+	url = git://github.com/kweejee/kwalbum.git
