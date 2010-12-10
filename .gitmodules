@@ -895,3 +895,12 @@
 [submodule "kwalbum"]
 	path = kwalbum
 	url = git://github.com/kweejee/kwalbum.git
+[submodule "images-resizer-url"]
+	path = images-resizer-url
+	url = git://github.com/daniloassis/ko3-images-resizer-url.git
+[submodule "gallery"]
+	path = gallery
+	url = git://github.com/solidsnake/Kohana-Gallery-Module.git
+[submodule "logapp"]
+	path = logapp
+	url = git://github.com/smgladkovskiy/kohana-logapp.git
