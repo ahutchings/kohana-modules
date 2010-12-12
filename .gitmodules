@@ -814,9 +814,6 @@
 [submodule "backend"]
 	path = backend
 	url = git://github.com/xcopy/backend.git
-[submodule "krush"]
-	path = krush
-	url = git://github.com/gevans/kohana-krush.git
 [submodule "jelly-rauth"]
 	path = jelly-rauth
 	url = git://github.com/AlexKupreev/jelly-rauth.git
@@ -904,3 +901,6 @@
 [submodule "logapp"]
 	path = logapp
 	url = git://github.com/smgladkovskiy/kohana-logapp.git
+[submodule "kadmium"]
+	path = kadmium
+	url = git://github.com/vitch/kohana-kadmium.git
