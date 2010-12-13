@@ -904,3 +904,15 @@
 [submodule "kadmium"]
 	path = kadmium
 	url = git://github.com/vitch/kohana-kadmium.git
+[submodule "ktree"]
+	path = ktree
+	url = git://github.com/Leemo/kTree.git
+[submodule "orm-crud"]
+	path = orm-crud
+	url = git://github.com/rowanparker/kohana-3-orm-crud.git
+[submodule "html-table"]
+	path = html-table
+	url = git://github.com/wadechristie/kohana-html-table.git
+[submodule "webmaster"]
+	path = webmaster
+	url = git://github.com/kazelot/kohana-webmaster.git
