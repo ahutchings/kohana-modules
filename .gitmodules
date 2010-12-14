@@ -916,3 +916,15 @@
 [submodule "webmaster"]
 	path = webmaster
 	url = git://github.com/kazelot/kohana-webmaster.git
+[submodule "geolocator-quova"]
+	path = geolocator-quova
+	url = git://github.com/LKay/kohana-geolocator-quova.git
+[submodule "pcntl"]
+	path = pcntl
+	url = git://github.com/phostr/kohana-pcntl.git
+[submodule "flash-messages"]
+	path = flash-messages
+	url = git://github.com/joelsouza/kohana-flash-messages.git
+[submodule "folly"]
+	path = folly
+	url = git://github.com/cayasso/folly.git
