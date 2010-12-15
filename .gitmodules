@@ -928,3 +928,18 @@
 [submodule "folly"]
 	path = folly
 	url = git://github.com/cayasso/folly.git
+[submodule "passwordinator"]
+	path = passwordinator
+	url = git://github.com/dyson/passwordinator.git
+[submodule "includinator"]
+	path = includinator
+	url = git://github.com/dyson/includinator.git
+[submodule "script-command"]
+	path = script-command
+	url = git://github.com/icyleaf/script-command.git
+[submodule "tl2"]
+	path = tl2
+	url = git://github.com/MasterCJ/kohana-tl2.git
+[submodule "mochi"]
+	path = mochi
+	url = git://github.com/illuspas/kohana-mochi.git
