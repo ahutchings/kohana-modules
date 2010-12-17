@@ -943,3 +943,15 @@
 [submodule "mochi"]
 	path = mochi
 	url = git://github.com/illuspas/kohana-mochi.git
+[submodule "multi_auth"]
+	path = multi_auth
+	url = git://github.com/benhaan/kohana_multi_auth.git
+[submodule "mongo_log"]
+	path = mongo_log
+	url = git://github.com/benhaan/mongo_log.git
+[submodule "phpthumb"]
+	path = phpthumb
+	url = git://github.com/lamberski/kohana-phpthumb.git
+[submodule "auth-driver-ldap"]
+	path = auth-driver-ldap
+	url = git://github.com/ahutchings/kohana-auth-driver-ldap.git
