@@ -955,3 +955,12 @@
 [submodule "auth-driver-ldap"]
 	path = auth-driver-ldap
 	url = git://github.com/ahutchings/kohana-auth-driver-ldap.git
+[submodule "file-acl"]
+	path = file-acl
+	url = git://github.com/lamberski/kohana-file-acl.git
+[submodule "bitly"]
+	path = bitly
+	url = git://github.com/dleavitt/kohana-bitly.git
+[submodule "postmark"]
+	path = postmark
+	url = git://github.com/dleavitt/kohana-postmark.git
