@@ -964,3 +964,18 @@
 [submodule "postmark"]
 	path = postmark
 	url = git://github.com/dleavitt/kohana-postmark.git
+[submodule "notifications"]
+	path = notifications
+	url = git://github.com/monokrome/kohana-notifications.git
+[submodule "flatpages"]
+	path = flatpages
+	url = git://github.com/monokrome/kohana-flatpages.git
+[submodule "navigation"]
+	path = navigation
+	url = git://github.com/monokrome/kohana-navigation.git
+[submodule "skins"]
+	path = skins
+	url = git://github.com/monokrome/kohana-skins.git
+[submodule "payment"]
+	path = payment
+	url = git://github.com/LKay/kohana-payment.git
