@@ -991,3 +991,12 @@
 [submodule "format"]
 	path = format
 	url = git://github.com/daveWid/kohana-format.git
+[submodule "assets2"]
+	path = assets2
+	url = git://github.com/rafi/kohana-assets.git
+[submodule "stencil"]
+	path = stencil
+	url = git://github.com/deibuji/kohana-stencil.git
+[submodule "csrf2"]
+	path = csrf2
+	url = git://github.com/Skookum/csrf.git
