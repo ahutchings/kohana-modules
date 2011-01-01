@@ -1000,3 +1000,9 @@
 [submodule "csrf2"]
 	path = csrf2
 	url = git://github.com/Skookum/csrf.git
+[submodule "kcal"]
+	path = kcal
+	url = git://github.com/alexgisby/kCal.git
+[submodule "minion"]
+	path = minion
+	url = git://github.com/BRMatt/kohana-minion.git
