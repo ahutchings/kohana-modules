@@ -1006,3 +1006,12 @@
 [submodule "minion"]
 	path = minion
 	url = git://github.com/BRMatt/kohana-minion.git
+[submodule "media1"]
+	path = media1
+	url = git://github.com/Zeelot/kohana-media.git
+[submodule "stacks"]
+	path = stacks
+	url = git://github.com/ahutchings/kohana-stacks.git
+[submodule "gtasks"]
+	path = gtasks
+	url = git://github.com/ahutchings/kohana-gtasks.git
