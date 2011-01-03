@@ -1015,3 +1015,12 @@
 [submodule "gtasks"]
 	path = gtasks
 	url = git://github.com/ahutchings/kohana-gtasks.git
+[submodule "prophet"]
+	path = prophet
+	url = git://github.com/DrPheltRight/Prophet.git
+[submodule "sitemenu"]
+	path = sitemenu
+	url = git://github.com/acoulton/sitemenu.git
+[submodule "exregex"]
+	path = exregex
+	url = git://github.com/acoulton/exregex.git
