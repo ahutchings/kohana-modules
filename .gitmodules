@@ -1036,3 +1036,9 @@
 [submodule "calendar2"]
 	path = calendar2
 	url = git://github.com/SamWM/kohana-calendar.git
+[submodule "vendo-acl"]
+	path = vendo-acl
+	url = git://github.com/vendo/acl.git
+[submodule "vendo-billing"]
+	path = vendo-billing
+	url = git://github.com/vendo/billing.git
