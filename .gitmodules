@@ -1024,3 +1024,15 @@
 [submodule "exregex"]
 	path = exregex
 	url = git://github.com/acoulton/exregex.git
+[submodule "google-maps"]
+	path = google-maps
+	url = git://github.com/solidsnake/Kohana-Google-Maps-Module.git
+[submodule "jscompile"]
+	path = jscompile
+	url = git://github.com/DanHulton/kohana-jscompile.git
+[submodule "mastertemplate"]
+	path = mastertemplate
+	url = git://github.com/jimktrains/kohana-mastertemplate.git
+[submodule "calendar2"]
+	path = calendar2
+	url = git://github.com/SamWM/kohana-calendar.git
