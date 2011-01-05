@@ -1042,3 +1042,6 @@
 [submodule "vendo-billing"]
 	path = vendo-billing
 	url = git://github.com/vendo/billing.git
+[submodule "vendo"]
+	path = vendo
+	url = git://github.com/vendo/vendo.git
