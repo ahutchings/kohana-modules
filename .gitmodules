@@ -955,9 +955,6 @@
 [submodule "auth-driver-ldap"]
 	path = auth-driver-ldap
 	url = git://github.com/ahutchings/kohana-auth-driver-ldap.git
-[submodule "file-acl"]
-	path = file-acl
-	url = git://github.com/lamberski/kohana-file-acl.git
 [submodule "bitly"]
 	path = bitly
 	url = git://github.com/dleavitt/kohana-bitly.git
@@ -1042,3 +1039,54 @@
 [submodule "vendo-billing"]
 	path = vendo-billing
 	url = git://github.com/vendo/billing.git
+[submodule "mmi-template"]
+	path = mmi-template
+	url = git://github.com/memakeit/mmi-template.git
+[submodule "mmi-request"]
+	path = mmi-request
+	url = git://github.com/memakeit/mmi-request.git
+[submodule "mmi-email"]
+	path = mmi-email
+	url = git://github.com/memakeit/mmi-email.git
+[submodule "mmi-blog"]
+	path = mmi-blog
+	url = git://github.com/memakeit/mmi-blog.git
+[submodule "mmi-bookmark"]
+	path = mmi-bookmark
+	url = git://github.com/memakeit/mmi-bookmark.git
+[submodule "mmi-analytics"]
+	path = mmi-analytics
+	url = git://github.com/memakeit/mmi-analytics.git
+[submodule "mmi-util"]
+	path = mmi-util
+	url = git://github.com/memakeit/mmi-util.git
+[submodule "mmi-form"]
+	path = mmi-form
+	url = git://github.com/memakeit/mmi-form.git
+[submodule "mmi-data"]
+	path = mmi-data
+	url = git://github.com/memakeit/mmi-data.git
+[submodule "mmi-curl"]
+	path = mmi-curl
+	url = git://github.com/memakeit/mmi-curl.git
+[submodule "mmi-cache"]
+	path = mmi-cache
+	url = git://github.com/memakeit/mmi-cache.git
+[submodule "mmi-atom"]
+	path = mmi-atom
+	url = git://github.com/memakeit/mmi-atom.git
+[submodule "mmi-ecommerce"]
+	path = mmi-ecommerce
+	url = git://github.com/memakeit/mmi-ecommerce.git
+[submodule "mmi-api"]
+	path = mmi-api
+	url = git://github.com/memakeit/mmi-api.git
+[submodule "mmi-widgets"]
+	path = mmi-widgets
+	url = git://github.com/memakeit/mmi-widgets.git
+[submodule "mmi-auth"]
+	path = mmi-auth
+	url = git://github.com/memakeit/mmi-auth.git
+[submodule "recaptcha"]
+	path = recaptcha
+	url = git://github.com/TimothyA/kohana-recaptcha.git
