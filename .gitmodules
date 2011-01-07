@@ -976,9 +976,6 @@
 [submodule "payment"]
 	path = payment
 	url = git://github.com/LKay/kohana-payment.git
-[submodule "xmmedia"]
-	path = xmmedia
-	url = git://github.com/darrylhein/xmmedia_kohana_module.git
 [submodule "communicate"]
 	path = communicate
 	url = git://github.com/glamorous/kohana-communicate.git
