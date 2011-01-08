@@ -1087,3 +1087,6 @@
 [submodule "recaptcha"]
 	path = recaptcha
 	url = git://github.com/TimothyA/kohana-recaptcha.git
+[submodule "acl3"]
+	path = acl3
+	url = git://github.com/mintbridge/ACL.git
