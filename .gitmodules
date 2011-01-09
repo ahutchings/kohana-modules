@@ -1090,3 +1090,9 @@
 [submodule "acl3"]
 	path = acl3
 	url = git://github.com/mintbridge/ACL.git
+[submodule "simplemigrations"]
+	path = simplemigrations
+	url = git://github.com/Xobb/simplemigrations.git
+[submodule "iris-and-optic"]
+	path = iris-and-optic
+	url = git://github.com/DrPheltRight/Iris-and-Optic.git
