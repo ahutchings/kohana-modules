@@ -1096,3 +1096,9 @@
 [submodule "iris-and-optic"]
 	path = iris-and-optic
 	url = git://github.com/DrPheltRight/Iris-and-Optic.git
+[submodule "console1"]
+	path = console1
+	url = git://github.com/ukko/kohana-3-console.git
+[submodule "bonafide"]
+	path = bonafide
+	url = git://github.com/shadowhand/bonafide.git
