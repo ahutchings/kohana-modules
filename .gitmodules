@@ -1102,3 +1102,6 @@
 [submodule "bonafide"]
 	path = bonafide
 	url = git://github.com/shadowhand/bonafide.git
+[submodule "view-model"]
+	path = view-model
+	url = git://github.com/zombor/View-Model.git
