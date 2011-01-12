@@ -541,9 +541,6 @@
 [submodule "mongodb-php-odm"]
 	path = mongodb-php-odm
 	url = git://github.com/colinmollenhour/mongodb-php-odm.git
-[submodule "view"]
-	path = view
-	url = git://github.com/zombor/Kohana-View.git
 [submodule "webclient"]
 	path = webclient
 	url = git://github.com/SyrusAkbary/Webclient-Kohana.git
