@@ -1105,3 +1105,12 @@
 [submodule "view-model"]
 	path = view-model
 	url = git://github.com/zombor/View-Model.git
+[submodule "trident"]
+	path = trident
+	url = git://github.com/ShadyStudios/Trident.git
+[submodule "errors1"]
+	path = errors1
+	url = git://github.com/DrPheltRight/kohana-errors.git
+[submodule "resources"]
+	path = resources
+	url = git://github.com/monokrome/kohana-resources.git
