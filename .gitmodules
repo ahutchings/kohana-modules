@@ -1093,3 +1093,24 @@
 [submodule "resources"]
 	path = resources
 	url = git://github.com/monokrome/kohana-resources.git
+[submodule "dbman"]
+	path = dbman
+	url = git://github.com/rjd22/Kohana-DBman.git
+[submodule "faverdy-core"]
+	path = faverdy-core
+	url = git://github.com/fealaer/faverdy-core.git
+[submodule "flatpage"]
+	path = flatpage
+	url = git://github.com/acidtv/Kohana-Flatpage-Module.git
+[submodule "kotwig"]
+	path = kotwig
+	url = git://github.com/Burgestrand/kotwig.git
+[submodule "twitter1"]
+	path = twitter1
+	url = git://github.com/somorok/Kohana-Twitter.git
+[submodule "jelly-auth1"]
+	path = jelly-auth1
+	url = git://github.com/LekisS/jelly-auth.git
+[submodule "kollapse"]
+	path = kollapse
+	url = git://github.com/gevans/kollapse.git
