@@ -1114,3 +1114,15 @@
 [submodule "kollapse"]
 	path = kollapse
 	url = git://github.com/gevans/kollapse.git
+[submodule "html_parser"]
+	path = html_parser
+	url = git://github.com/kemo/html_parser.git
+[submodule "migrations1"]
+	path = migrations1
+	url = git://github.com/ThePixelDeveloper/kohana-migrations.git
+[submodule "kogitlog"]
+	path = kogitlog
+	url = git://github.com/Burgestrand/kogitlog.git
+[submodule "cache2"]
+	path = cache2
+	url = git://github.com/pedrosland/kohana-cache.git
