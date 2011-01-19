@@ -25,9 +25,6 @@
 [submodule "cache"]
 	path = cache
 	url = git://github.com/kohana/cache.git
-[submodule "auth-driver-orm"]
-	path = auth-driver-orm
-	url = git://github.com/kohana/auth-driver-orm.git
 [submodule "auth"]
 	path = auth
 	url = git://github.com/kohana/auth.git
@@ -193,9 +190,6 @@
 [submodule "calendar"]
 	path = calendar
 	url = git://github.com/antpaw/kohana_calendar.git
-[submodule "glue-orm"]
-	path = glue-orm
-	url = git://github.com/rlm80/glue-orm.git
 [submodule "b8"]
 	path = b8
 	url = git://github.com/stensi/Kohana-B8.git
