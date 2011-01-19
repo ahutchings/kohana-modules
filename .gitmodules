@@ -1144,3 +1144,15 @@
 [submodule "membership"]
 	path = membership
 	url = git://github.com/Daniel15/Kohana-Membership.git
+[submodule "acl4"]
+	path = acl4
+	url = git://github.com/StefanRHRO/KohanaACL.git
+[submodule "extdirect"]
+	path = extdirect
+	url = git://github.com/devolonter/extdirect.kohana.git
+[submodule "whd"]
+	path = whd
+	url = git://github.com/ahutchings/kohana-whd.git
+[submodule "xrequest"]
+	path = xrequest
+	url = git://github.com/i-ekho/kohana-xrequest.git
