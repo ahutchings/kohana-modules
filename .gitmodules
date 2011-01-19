@@ -1138,3 +1138,15 @@
 [submodule "debugwithstyle"]
 	path = debugwithstyle
 	url = git://github.com/antpaw/kohana_debugwithstyle.git
+[submodule "pdftk"]
+	path = pdftk
+	url = git://github.com/synapsestudios/kohana-pdftk.git
+[submodule "taskqueue"]
+	path = taskqueue
+	url = git://github.com/brianewing/kohana-taskqueue.git
+[submodule "kodwoo"]
+	path = kodwoo
+	url = git://github.com/tylerl/Kodwoo.git
+[submodule "membership"]
+	path = membership
+	url = git://github.com/Daniel15/Kohana-Membership.git
