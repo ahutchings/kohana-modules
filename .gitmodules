@@ -1156,3 +1156,15 @@
 [submodule "xrequest"]
 	path = xrequest
 	url = git://github.com/i-ekho/kohana-xrequest.git
+[submodule "gorm"]
+	path = gorm
+	url = git://github.com/glamorous/kohana-gorm.git
+[submodule "menu1"]
+	path = menu1
+	url = git://github.com/smgladkovskiy/kohana-menu.git
+[submodule "phpexcel"]
+	path = phpexcel
+	url = git://github.com/dshovchko/kohana-phpexcel.git
+[submodule "editor1"]
+	path = editor1
+	url = git://github.com/shameerc/Kohana-editor.git
