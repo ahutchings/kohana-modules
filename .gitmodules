@@ -1168,3 +1168,18 @@
 [submodule "editor1"]
 	path = editor1
 	url = git://github.com/shameerc/Kohana-editor.git
+[submodule "google-translation-api"]
+	path = google-translation-api
+	url = git://github.com/gingo/kohana-google-translation-api.git
+[submodule "hashbang"]
+	path = hashbang
+	url = git://github.com/shadowhand/hashbang.git
+[submodule "database-mysqli1"]
+	path = database-mysqli1
+	url = git://github.com/isaiahdw/kohana-database-mysqli.git
+[submodule "glue-orm"]
+	path = glue-orm
+	url = git://github.com/rlm80/Archive--glue-orm.git
+[submodule "flashmessages"]
+	path = flashmessages
+	url = git://github.com/ener/FlashMessages.git
