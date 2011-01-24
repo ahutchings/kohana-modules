@@ -31,9 +31,6 @@
 [submodule "hive"]
 	path = hive
 	url = git://github.com/shadowhand/hive.git
-[submodule "tuffet"]
-	path = tuffet
-	url = git://github.com/shadowhand/tuffet.git
 [submodule "pdfview"]
 	path = pdfview
 	url = git://github.com/shadowhand/pdfview.git
@@ -847,9 +844,6 @@
 [submodule "stomp"]
 	path = stomp
 	url = git://github.com/phostr/kohana-stomp.git
-[submodule "ktwig"]
-	path = ktwig
-	url = git://github.com/Leemo/kTwig.git
 [submodule "template-mailer"]
 	path = template-mailer
 	url = git://github.com/czukowski/template-mailer.git
