@@ -1177,3 +1177,18 @@
 [submodule "flashmessages"]
 	path = flashmessages
 	url = git://github.com/ener/FlashMessages.git
+[submodule "cryptjs"]
+	path = cryptjs
+	url = git://github.com/kanema/kohana-cryptjs.git
+[submodule "str"]
+	path = str
+	url = git://github.com/kemo/str.git
+[submodule "utilities1"]
+	path = utilities1
+	url = git://github.com/glamorous/kohana-utilities.git
+[submodule "cl4base"]
+	path = cl4base
+	url = git://github.com/claerosystems/cl4base.git
+[submodule "matryoshka"]
+	path = matryoshka
+	url = git://github.com/daveWid/matryoshka.git
