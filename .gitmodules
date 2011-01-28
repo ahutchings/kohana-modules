@@ -1192,3 +1192,21 @@
 [submodule "matryoshka"]
 	path = matryoshka
 	url = git://github.com/daveWid/matryoshka.git
+[submodule "useradmin"]
+	path = useradmin
+	url = git://github.com/jnbdz/useradmin.git
+[submodule "useradmin1"]
+	path = useradmin1
+	url = git://github.com/JustLikeIcarus/kohana-useradmin.git
+[submodule "kippel-util"]
+	path = kippel-util
+	url = git://github.com/kippel/kippel-util.git
+[submodule "snippets"]
+	path = snippets
+	url = git://github.com/matoakley/Kohana-Snippets.git
+[submodule "cache3"]
+	path = cache3
+	url = git://github.com/jimktrains/kohana-cache.git
+[submodule "myauth"]
+	path = myauth
+	url = git://github.com/kohamkohane/myauth.git
