@@ -1210,3 +1210,15 @@
 [submodule "myauth"]
 	path = myauth
 	url = git://github.com/kohamkohane/myauth.git
+[submodule "moneytostring"]
+	path = moneytostring
+	url = git://github.com/ener/Kohana-MoneyToString.git
+[submodule "git"]
+	path = git
+	url = git://github.com/Zeelot/kohana-git.git
+[submodule "koxtend"]
+	path = koxtend
+	url = git://github.com/Burgestrand/koxtend.git
+[submodule "kpass"]
+	path = kpass
+	url = git://github.com/Riu/kpass.git
