@@ -1222,3 +1222,15 @@
 [submodule "kpass"]
 	path = kpass
 	url = git://github.com/Riu/kpass.git
+[submodule "static-files"]
+	path = static-files
+	url = git://github.com/aberdnikov/kohana-static-files.git
+[submodule "wkhtml"]
+	path = wkhtml
+	url = git://github.com/rowanparker/kohana-3-wkhtml.git
+[submodule "session-user"]
+	path = session-user
+	url = git://github.com/asaushkin/session-user.git
+[submodule "dleavitt"]
+	path = dleavitt
+	url = git://github.com/dleavitt/kohana-dleavitt.git
