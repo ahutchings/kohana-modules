@@ -1234,3 +1234,15 @@
 [submodule "dleavitt"]
 	path = dleavitt
 	url = git://github.com/dleavitt/kohana-dleavitt.git
+[submodule "msg"]
+	path = msg
+	url = git://github.com/goyote/msg.git
+[submodule "media2"]
+	path = media2
+	url = git://github.com/birkir/media.git
+[submodule "ftp"]
+	path = ftp
+	url = git://github.com/kanema/kohana-ftp.git
+[submodule "autheasy"]
+	path = autheasy
+	url = git://github.com/marcelorodrigo/autheasy.git
