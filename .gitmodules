@@ -1246,3 +1246,6 @@
 [submodule "autheasy"]
 	path = autheasy
 	url = git://github.com/marcelorodrigo/autheasy.git
+[submodule "lwrte"]
+	path = lwrte
+	url = git://github.com/JDStraughan/kohana-lwrte.git
