@@ -301,9 +301,6 @@
 [submodule "pigeon"]
 	path = pigeon
 	url = git://github.com/loonies/kohana-pigeon.git
-[submodule "phpass"]
-	path = phpass
-	url = git://github.com/Riu/phpass.git
 [submodule "kthrottler"]
 	path = kthrottler
 	url = git://github.com/fredwu/kthrottler.git
@@ -862,9 +859,6 @@
 [submodule "gravatar1"]
 	path = gravatar1
 	url = git://github.com/davidvandertuijn/gravatar.git
-[submodule "activerecord"]
-	path = activerecord
-	url = git://github.com/Kofel/kohana-activerecord.git
 [submodule "kwalbum"]
 	path = kwalbum
 	url = git://github.com/kweejee/kwalbum.git
@@ -964,9 +958,6 @@
 [submodule "kcal"]
 	path = kcal
 	url = git://github.com/alexgisby/kCal.git
-[submodule "minion"]
-	path = minion
-	url = git://github.com/BRMatt/kohana-minion.git
 [submodule "media1"]
 	path = media1
 	url = git://github.com/Zeelot/kohana-media.git
@@ -1177,9 +1168,6 @@
 [submodule "flashmessages"]
 	path = flashmessages
 	url = git://github.com/ener/FlashMessages.git
-[submodule "cryptjs"]
-	path = cryptjs
-	url = git://github.com/kanema/kohana-cryptjs.git
 [submodule "str"]
 	path = str
 	url = git://github.com/kemo/str.git
