@@ -1249,3 +1249,9 @@
 [submodule "lwrte"]
 	path = lwrte
 	url = git://github.com/JDStraughan/kohana-lwrte.git
+[submodule "activerecord1"]
+	path = activerecord1
+	url = git://github.com/devi/kohana-activerecord.git
+[submodule "uresolve"]
+	path = uresolve
+	url = git://github.com/zrvan/Kohana-Uresolve.git
