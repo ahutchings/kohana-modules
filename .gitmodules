@@ -1255,3 +1255,15 @@
 [submodule "uresolve"]
 	path = uresolve
 	url = git://github.com/zrvan/Kohana-Uresolve.git
+[submodule "emailq"]
+	path = emailq
+	url = git://github.com/ivansf/Emailq.git
+[submodule "comingsoon"]
+	path = comingsoon
+	url = git://github.com/russiankohana/kw-comingsoon.git
+[submodule "i18n"]
+	path = i18n
+	url = git://github.com/russiankohana/kw-i18n.git
+[submodule "basement"]
+	path = basement
+	url = git://github.com/Xobb/basement.git
