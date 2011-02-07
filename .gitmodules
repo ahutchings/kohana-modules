@@ -1255,3 +1255,27 @@
 [submodule "basement"]
 	path = basement
 	url = git://github.com/Xobb/basement.git
+[submodule "eway"]
+	path = eway
+	url = git://github.com/rowanparker/kohana-3-eway.git
+[submodule "google-shorten"]
+	path = google-shorten
+	url = git://github.com/mongeslani/kohana-google-shorten.git
+[submodule "assist"]
+	path = assist
+	url = git://github.com/Leemo/kohana-assist.git
+[submodule "nav"]
+	path = nav
+	url = git://github.com/jesusdiez/kohana-nav.git
+[submodule "console3"]
+	path = console3
+	url = git://github.com/LKay/kohana-console.git
+[submodule "tasks-cache"]
+	path = tasks-cache
+	url = git://github.com/kohana-minion/tasks-cache.git
+[submodule "tasks-migrations"]
+	path = tasks-migrations
+	url = git://github.com/kohana-minion/tasks-migrations.git
+[submodule "minion"]
+	path = minion
+	url = git://github.com/kohana-minion/core.git
