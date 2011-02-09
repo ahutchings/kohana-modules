@@ -1252,9 +1252,6 @@
 [submodule "i18n"]
 	path = i18n
 	url = git://github.com/russiankohana/kw-i18n.git
-[submodule "basement"]
-	path = basement
-	url = git://github.com/Xobb/basement.git
 [submodule "eway"]
 	path = eway
 	url = git://github.com/rowanparker/kohana-3-eway.git
@@ -1279,3 +1276,9 @@
 [submodule "minion"]
 	path = minion
 	url = git://github.com/kohana-minion/core.git
+[submodule "tmdb"]
+	path = tmdb
+	url = git://github.com/erikvdwal/kohana-tmdb.git
+[submodule "oauthy"]
+	path = oauthy
+	url = git://github.com/Yahasana/kohana-oauthy.git
