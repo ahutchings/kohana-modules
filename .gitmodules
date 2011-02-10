@@ -1,0 +1,36 @@
+[submodule "tags"]
+	path = tags
+	url = git://github.com/kolanos/kohana-tags.git
+[submodule "authorize_payment"]
+	path = authorize_payment
+	url = git://github.com/synapsestudios/kohana2-authorize_payment.git
+[submodule "postmark"]
+	path = postmark
+	url = git://github.com/djaiss/kohana-postmark.git
+[submodule "codebench"]
+	path = codebench
+	url = git://github.com/cbandy/codebench.git
+[submodule "frache"]
+	path = frache
+	url = git://github.com/Zeelot/kohana-frache.git
+[submodule "development"]
+	path = development
+	url = git://github.com/synapsestudios/kohana2-development.git
+[submodule "twig"]
+	path = twig
+	url = git://github.com/marcalj/kohana2-twig.git
+[submodule "mailchimp"]
+	path = mailchimp
+	url = git://github.com/djaiss/kohana-mailchimp.git
+[submodule "datagrid"]
+	path = datagrid
+	url = git://github.com/pitchinvasion/Datagrid.git
+[submodule "ups"]
+	path = ups
+	url = git://github.com/synapsestudios/kohana2-UPS.git
+[submodule "email"]
+	path = email
+	url = git://github.com/slacker/ko2.3.4-email.git
+[submodule "table"]
+	path = table
+	url = git://github.com/slacker/ko2.3.4-table.git
