@@ -1,0 +1,6 @@
+[submodule "brownie"]
+	path = brownie
+	url = git://github.com/zombor/Brownie.git
+[submodule "dynamicimage"]
+	path = dynamicimage
+	url = git://github.com/iloveitaly/DynamicImage.git
