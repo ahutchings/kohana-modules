@@ -34,3 +34,81 @@
 [submodule "table"]
 	path = table
 	url = git://github.com/slacker/ko2.3.4-table.git
+[submodule "migrations"]
+	path = migrations
+	url = git://github.com/jmhobbs/kohana-2-migrations.git
+[submodule "kouchdriver"]
+	path = kouchdriver
+	url = git://github.com/jofell/KouchDriver.git
+[submodule "mmcached"]
+	path = mmcached
+	url = git://github.com/grzegorzkazulak/kohana_mmcached.git
+[submodule "gmaps"]
+	path = gmaps
+	url = git://github.com/iloveitaly/GMaps-Kohana.git
+[submodule "active-resource"]
+	path = active-resource
+	url = git://github.com/transphorm/active-resource-for-kohana.git
+[submodule "files"]
+	path = files
+	url = git://github.com/drhevans/kohana-module--files.git
+[submodule "debug-toolbar"]
+	path = debug-toolbar
+	url = git://github.com/samsouder/kohana-debug-toolbar-samsouder.git
+[submodule "kphlickr"]
+	path = kphlickr
+	url = git://github.com/nocash/kphlickr.git
+[submodule "admin"]
+	path = admin
+	url = git://github.com/actuosus/kohana_admin.git
+[submodule "footsteps"]
+	path = footsteps
+	url = git://github.com/jmhobbs/kohana-2-footsteps.git
+[submodule "furi"]
+	path = furi
+	url = git://github.com/nocash/fURI.git
+[submodule "launchingsoon"]
+	path = launchingsoon
+	url = git://github.com/suffolksoftware/launchingsoon.git
+[submodule "fizzle"]
+	path = fizzle
+	url = git://github.com/plusjade/kohana-fizzle.git
+[submodule "growl"]
+	path = growl
+	url = git://github.com/Drarok/kohana-growl.git
+[submodule "memcacheimp"]
+	path = memcacheimp
+	url = git://github.com/Kolger/kohana-memcacheimp.git
+[submodule "haml"]
+	path = haml
+	url = git://github.com/Nergal/haml.git
+[submodule "yboss"]
+	path = yboss
+	url = git://github.com/lefnire/yboss_kohana.git
+[submodule "assets"]
+	path = assets
+	url = git://github.com/drhevans/kohana-module--assets.git
+[submodule "fire_profiler"]
+	path = fire_profiler
+	url = git://github.com/transphorm/fire_profiler.git
+[submodule "ci-legacy"]
+	path = ci-legacy
+	url = git://github.com/nocash/ci-legacy.git
+[submodule "twitter"]
+	path = twitter
+	url = git://github.com/andyhot/twitter-kohana.git
+[submodule "router-acl"]
+	path = router-acl
+	url = git://github.com/Zeelot/kohana_router-acl.git
+[submodule "mptt"]
+	path = mptt
+	url = git://github.com/meghuizen/kohana2-mptt.git
+[submodule "icontact"]
+	path = icontact
+	url = git://github.com/iloveitaly/iContact-Kohana.git
+[submodule "netsuite"]
+	path = netsuite
+	url = git://github.com/iloveitaly/netsuite-kohana.git
+[submodule "pchart"]
+	path = pchart
+	url = git://github.com/samsoffes/pchart-module.git
