@@ -25,3 +25,18 @@
 [submodule "auth"]
 	path = auth
 	url = git://github.com/kohana/auth.git
+[submodule "kw-core"]
+	path = kw-core
+	url = git://github.com/russiankohana/kw-core.git
+[submodule "coffeescript"]
+	path = coffeescript
+	url = git://github.com/DanHulton/kohana-coffeescript.git
+[submodule "kw-modules"]
+	path = kw-modules
+	url = git://github.com/russiankohana/kw-modules.git
+[submodule "admin-theme"]
+	path = admin-theme
+	url = git://github.com/synapsestudios/kohana-admin-theme.git
+[submodule "github"]
+	path = github
+	url = git://github.com/ahutchings/kohana-github.git
