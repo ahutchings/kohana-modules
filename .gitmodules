@@ -25,18 +25,30 @@
 [submodule "auth"]
 	path = auth
 	url = git://github.com/kohana/auth.git
-[submodule "kw-core"]
-	path = kw-core
-	url = git://github.com/russiankohana/kw-core.git
 [submodule "coffeescript"]
 	path = coffeescript
 	url = git://github.com/DanHulton/kohana-coffeescript.git
-[submodule "kw-modules"]
-	path = kw-modules
-	url = git://github.com/russiankohana/kw-modules.git
 [submodule "admin-theme"]
 	path = admin-theme
 	url = git://github.com/synapsestudios/kohana-admin-theme.git
 [submodule "github"]
 	path = github
 	url = git://github.com/ahutchings/kohana-github.git
+[submodule "recaptcha"]
+	path = recaptcha
+	url = git://github.com/emptyhammond/kohana_recaptcha.git
+[submodule "cli-generator"]
+	path = cli-generator
+	url = git://github.com/chvanikoff/Kohana-CLI-generator.git
+[submodule "website"]
+	path = website
+	url = git://github.com/ObjectiveCompany/kohana-website.git
+[submodule "authnet"]
+	path = authnet
+	url = git://github.com/ObjectiveCompany/kohana-authnet.git
+[submodule "asset"]
+	path = asset
+	url = git://github.com/goyote/asset.git
+[submodule "classbuilder"]
+	path = classbuilder
+	url = git://github.com/hivensil/kohana_classbuilder.git
