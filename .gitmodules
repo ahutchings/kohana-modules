@@ -331,9 +331,6 @@
 [submodule "codegen"]
 	path = codegen
 	url = git://github.com/Yahasana/Kohana-Codegen.git
-[submodule "oauth20"]
-	path = oauth20
-	url = git://github.com/Yahasana/OAuth-2.0.git
 [submodule "batch"]
 	path = batch
 	url = git://github.com/rlm80/Kohana-Batch.git
@@ -700,9 +697,6 @@
 [submodule "githubapi"]
 	path = githubapi
 	url = git://github.com/bobeagan/kohana-githubapi.git
-[submodule "authnet"]
-	path = authnet
-	url = git://github.com/ObjectiveCompany/AuthNet.git
 [submodule "fusion"]
 	path = fusion
 	url = git://github.com/melvinmt/KO3-Fusion.git
