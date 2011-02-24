@@ -1171,9 +1171,6 @@
 [submodule "cl4base"]
 	path = cl4base
 	url = git://github.com/claerosystems/cl4base.git
-[submodule "matryoshka"]
-	path = matryoshka
-	url = git://github.com/daveWid/matryoshka.git
 [submodule "useradmin"]
 	path = useradmin
 	url = git://github.com/jnbdz/useradmin.git
@@ -1240,12 +1237,6 @@
 [submodule "emailq"]
 	path = emailq
 	url = git://github.com/ivansf/Emailq.git
-[submodule "comingsoon"]
-	path = comingsoon
-	url = git://github.com/russiankohana/kw-comingsoon.git
-[submodule "i18n"]
-	path = i18n
-	url = git://github.com/russiankohana/kw-i18n.git
 [submodule "eway"]
 	path = eway
 	url = git://github.com/rowanparker/kohana-3-eway.git
