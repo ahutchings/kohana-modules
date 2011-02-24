@@ -52,3 +52,6 @@
 [submodule "classbuilder"]
 	path = classbuilder
 	url = git://github.com/hivensil/kohana_classbuilder.git
+[submodule "pajas"]
+	path = pajas
+	url = git://github.com/lillem4n/kohana-module-pajas.git
