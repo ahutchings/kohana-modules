@@ -55,3 +55,6 @@
 [submodule "pajas"]
 	path = pajas
 	url = git://github.com/lillem4n/kohana-module-pajas.git
+[submodule "formo"]
+	path = formo
+	url = git://github.com/bmidget/kohana-formo.git
