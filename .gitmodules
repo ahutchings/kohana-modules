@@ -1267,3 +1267,12 @@
 [submodule "oauthy"]
 	path = oauthy
 	url = git://github.com/Yahasana/kohana-oauthy.git
+[submodule "holiday"]
+	path = holiday
+	url = git://github.com/synapsestudios/kohana-holiday.git
+[submodule "compress"]
+	path = compress
+	url = git://github.com/azampagl/kohana-compress.git
+[submodule "walrus"]
+	path = walrus
+	url = git://github.com/shadowhand/walrus.git
