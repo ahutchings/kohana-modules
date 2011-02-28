@@ -58,3 +58,24 @@
 [submodule "formo"]
 	path = formo
 	url = git://github.com/bmidget/kohana-formo.git
+[submodule "mattach"]
+	path = mattach
+	url = git://github.com/fo3-nik5/kohana-mattach.git
+[submodule "hint"]
+	path = hint
+	url = git://github.com/goyote/hint.git
+[submodule "korty"]
+	path = korty
+	url = git://github.com/xurumelous/korty.git
+[submodule "kohanabean"]
+	path = kohanabean
+	url = git://github.com/Xobb/Kohanabean.git
+[submodule "resizer"]
+	path = resizer
+	url = git://github.com/Nergal/kohana-resizer.git
+[submodule "kw-core"]
+	path = kw-core
+	url = git://github.com/kohana-world/kw-core.git
+[submodule "kw-modules"]
+	path = kw-modules
+	url = git://github.com/kohana-world/kw-modules.git
