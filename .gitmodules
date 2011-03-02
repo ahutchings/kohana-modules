@@ -79,3 +79,6 @@
 [submodule "kw-modules"]
 	path = kw-modules
 	url = git://github.com/kohana-world/kw-modules.git
+[submodule "kostache"]
+	path = kostache
+	url = git://github.com/zombor/KOstache.git
