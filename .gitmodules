@@ -205,9 +205,6 @@
 [submodule "kogit"]
 	path = kogit
 	url = git://github.com/birkir/kogit.git
-[submodule "media"]
-	path = media
-	url = git://github.com/azampagl/kohana-media.git
 [submodule "jelly-auth"]
 	path = jelly-auth
 	url = git://github.com/raeldc/jelly-auth.git
@@ -802,9 +799,6 @@
 [submodule "flexsdb"]
 	path = flexsdb
 	url = git://github.com/melvinmt/FlexSDB.git
-[submodule "cache1"]
-	path = cache1
-	url = git://github.com/Nergal/KO3-Cache.git
 [submodule "kladr"]
 	path = kladr
 	url = git://github.com/smgladkovskiy/kohana-kladr.git
