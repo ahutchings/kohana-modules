@@ -1270,3 +1270,6 @@
 [submodule "walrus"]
 	path = walrus
 	url = git://github.com/shadowhand/walrus.git
+[submodule "email2"]
+	path = email2
+	url = git://github.com/shadowhand/email.git
