@@ -88,3 +88,6 @@
 [submodule "assets"]
 	path = assets
 	url = git://github.com/coreyworrell/Kohana-Assets.git
+[submodule "email2"]
+	path = email2
+	url = git://github.com/shadowhand/email.git
