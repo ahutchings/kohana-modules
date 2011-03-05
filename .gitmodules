@@ -1273,3 +1273,6 @@
 [submodule "email2"]
 	path = email2
 	url = git://github.com/shadowhand/email.git
+[submodule "uuid"]
+	path = uuid
+	url = git://github.com/shadowhand/uuid.git
