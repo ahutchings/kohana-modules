@@ -94,3 +94,6 @@
 [submodule "uuid"]
 	path = uuid
 	url = git://github.com/shadowhand/uuid.git
+[submodule "cheatsheet"]
+	path = cheatsheet
+	url = git://github.com/AlexKupreev/kohana-cheatsheet.git
