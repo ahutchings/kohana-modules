@@ -97,3 +97,27 @@
 [submodule "cheatsheet"]
 	path = cheatsheet
 	url = git://github.com/AlexKupreev/kohana-cheatsheet.git
+[submodule "doctrine"]
+	path = doctrine
+	url = git://github.com/gimpe/kohana-doctrine.git
+[submodule "faker"]
+	path = faker
+	url = git://github.com/jmhobbs/K3-Faker.git
+[submodule "multilang"]
+	path = multilang
+	url = git://github.com/shockiii/kohana-multilang.git
+[submodule "admin"]
+	path = admin
+	url = git://github.com/Luwe/Kohana-Admin.git
+[submodule "base"]
+	path = base
+	url = git://github.com/Luwe/Kohana-Base.git
+[submodule "menu"]
+	path = menu
+	url = git://github.com/kureikain/menu.git
+[submodule "subdomain"]
+	path = subdomain
+	url = git://github.com/jeanmask/subdomain.git
+[submodule "pagecache"]
+	path = pagecache
+	url = git://github.com/lysender/pagecache.git
