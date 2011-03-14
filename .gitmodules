@@ -121,3 +121,18 @@
 [submodule "pagecache"]
 	path = pagecache
 	url = git://github.com/lysender/pagecache.git
+[submodule "template-plus"]
+	path = template-plus
+	url = git://github.com/jeanmask/template-plus.git
+[submodule "unittest1"]
+	path = unittest1
+	url = git://github.com/ClaudioAlbertin/Kohana-Unittest.git
+[submodule "redisko"]
+	path = redisko
+	url = git://github.com/Zedzed/Redisko.git
+[submodule "kquery"]
+	path = kquery
+	url = git://github.com/shadowhand/kquery.git
+[submodule "hauthlite"]
+	path = hauthlite
+	url = git://github.com/huexotzinca/hauthlite.git
