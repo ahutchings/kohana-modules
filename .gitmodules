@@ -55,9 +55,6 @@
 [submodule "debug-toolbar"]
 	path = debug-toolbar
 	url = git://github.com/samsouder/kohana-debug-toolbar-samsouder.git
-[submodule "kphlickr"]
-	path = kphlickr
-	url = git://github.com/nocash/kphlickr.git
 [submodule "admin"]
 	path = admin
 	url = git://github.com/actuosus/kohana_admin.git
@@ -91,9 +88,6 @@
 [submodule "fire_profiler"]
 	path = fire_profiler
 	url = git://github.com/transphorm/fire_profiler.git
-[submodule "ci-legacy"]
-	path = ci-legacy
-	url = git://github.com/nocash/ci-legacy.git
 [submodule "twitter"]
 	path = twitter
 	url = git://github.com/andyhot/twitter-kohana.git
