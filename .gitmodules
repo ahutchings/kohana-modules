@@ -664,9 +664,6 @@
 [submodule "imagemagick-driver"]
 	path = imagemagick-driver
 	url = git://github.com/joelpittet/kohana-imagemagick-driver.git
-[submodule "former"]
-	path = former
-	url = git://github.com/homm/former.git
 [submodule "csrf1"]
 	path = csrf1
 	url = git://github.com/evopix/csrf.git
@@ -910,18 +907,6 @@
 [submodule "postmark"]
 	path = postmark
 	url = git://github.com/dleavitt/kohana-postmark.git
-[submodule "notifications"]
-	path = notifications
-	url = git://github.com/monokrome/kohana-notifications.git
-[submodule "flatpages"]
-	path = flatpages
-	url = git://github.com/monokrome/kohana-flatpages.git
-[submodule "navigation"]
-	path = navigation
-	url = git://github.com/monokrome/kohana-navigation.git
-[submodule "skins"]
-	path = skins
-	url = git://github.com/monokrome/kohana-skins.git
 [submodule "payment"]
 	path = payment
 	url = git://github.com/LKay/kohana-payment.git
@@ -1057,9 +1042,6 @@
 [submodule "errors1"]
 	path = errors1
 	url = git://github.com/DrPheltRight/kohana-errors.git
-[submodule "resources"]
-	path = resources
-	url = git://github.com/monokrome/kohana-resources.git
 [submodule "dbman"]
 	path = dbman
 	url = git://github.com/rjd22/Kohana-DBman.git
