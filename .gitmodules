@@ -136,3 +136,6 @@
 [submodule "hauthlite"]
 	path = hauthlite
 	url = git://github.com/huexotzinca/hauthlite.git
+[submodule "flickr"]
+	path = flickr
+	url = git://github.com/jeanmask/flickr.git
