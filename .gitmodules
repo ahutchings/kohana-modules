@@ -811,9 +811,6 @@
 [submodule "imageplus"]
 	path = imageplus
 	url = git://github.com/alexgisby/Kohana-ImagePlus.git
-[submodule "facebook2"]
-	path = facebook2
-	url = git://github.com/kemo/facebook.git
 [submodule "cl4"]
 	path = cl4
 	url = git://github.com/graphis/cl4.git
