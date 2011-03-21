@@ -1255,3 +1255,24 @@
 [submodule "uuid"]
 	path = uuid
 	url = git://github.com/shadowhand/uuid.git
+[submodule "resources"]
+	path = resources
+	url = git://github.com/LimpidTech/kohana-resources.git
+[submodule "navigation"]
+	path = navigation
+	url = git://github.com/LimpidTech/kohana-navigation.git
+[submodule "notifications"]
+	path = notifications
+	url = git://github.com/LimpidTech/kohana-notifications.git
+[submodule "message2"]
+	path = message2
+	url = git://github.com/evopix/message.git
+[submodule "flatpages"]
+	path = flatpages
+	url = git://github.com/LimpidTech/kohana-flatpages.git
+[submodule "recaptcha1"]
+	path = recaptcha1
+	url = git://github.com/brianpow/kohana-recaptcha.git
+[submodule "skins"]
+	path = skins
+	url = git://github.com/LimpidTech/kohana-skins.git
