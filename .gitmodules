@@ -106,3 +106,6 @@
 [submodule "pchart"]
 	path = pchart
 	url = git://github.com/samsoffes/pchart-module.git
+[submodule "recaptcha"]
+	path = recaptcha
+	url = git://github.com/rgenito/Kohana-2.3-reCAPTCHA.git
