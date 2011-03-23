@@ -1276,3 +1276,6 @@
 [submodule "skins"]
 	path = skins
 	url = git://github.com/LimpidTech/kohana-skins.git
+[submodule "ga"]
+	path = ga
+	url = git://github.com/altesack/ga-kohana.git
