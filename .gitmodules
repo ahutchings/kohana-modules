@@ -139,3 +139,21 @@
 [submodule "flickr"]
 	path = flickr
 	url = git://github.com/jeanmask/flickr.git
+[submodule "doctrine1"]
+	path = doctrine1
+	url = git://github.com/acoulton/kodoctrine.git
+[submodule "solr"]
+	path = solr
+	url = git://github.com/evopix/kohana-solr.git
+[submodule "tree-lite"]
+	path = tree-lite
+	url = git://github.com/towfx/Kohana-Tree-Lite.git
+[submodule "jqdoc-parser"]
+	path = jqdoc-parser
+	url = git://github.com/Yahasana/jqdoc-parser.git
+[submodule "form"]
+	path = form
+	url = git://github.com/ClaudioAlbertin/Kohana-Form.git
+[submodule "auth1"]
+	path = auth1
+	url = git://github.com/ClaudioAlbertin/Kohana-Auth.git
