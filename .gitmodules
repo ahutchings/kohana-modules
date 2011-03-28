@@ -1279,3 +1279,18 @@
 [submodule "ga"]
 	path = ga
 	url = git://github.com/altesack/ga-kohana.git
+[submodule "stomp1"]
+	path = stomp1
+	url = git://github.com/managedit/kohana-stomp.git
+[submodule "pcntl1"]
+	path = pcntl1
+	url = git://github.com/managedit/kohana-pcntl.git
+[submodule "gearman1"]
+	path = gearman1
+	url = git://github.com/managedit/kohana-gearman.git
+[submodule "bbcode"]
+	path = bbcode
+	url = git://github.com/Nergal/kohana-bbcode.git
+[submodule "koig"]
+	path = koig
+	url = git://github.com/orifjon/koig.git
