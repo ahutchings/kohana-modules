@@ -457,9 +457,6 @@
 [submodule "azimauth"]
 	path = azimauth
 	url = git://github.com/tommusic/Kohana-Azimauth.git
-[submodule "gearman"]
-	path = gearman
-	url = git://github.com/kiall/kohana3-gearman.git
 [submodule "xview"]
 	path = xview
 	url = git://github.com/towfx/Xview.git
@@ -799,9 +796,6 @@
 [submodule "kladr"]
 	path = kladr
 	url = git://github.com/smgladkovskiy/kohana-kladr.git
-[submodule "acl2"]
-	path = acl2
-	url = git://github.com/smgladkovskiy/kohana-acl.git
 [submodule "kcss"]
 	path = kcss
 	url = git://github.com/alexgisby/kCSS.git
@@ -820,9 +814,6 @@
 [submodule "jxloader"]
 	path = jxloader
 	url = git://github.com/jonlb/jxLoader-kohana.git
-[submodule "stomp"]
-	path = stomp
-	url = git://github.com/phostr/kohana-stomp.git
 [submodule "template-mailer"]
 	path = template-mailer
 	url = git://github.com/czukowski/template-mailer.git
@@ -865,9 +856,6 @@
 [submodule "geolocator-quova"]
 	path = geolocator-quova
 	url = git://github.com/LKay/kohana-geolocator-quova.git
-[submodule "pcntl"]
-	path = pcntl
-	url = git://github.com/phostr/kohana-pcntl.git
 [submodule "flash-messages"]
 	path = flash-messages
 	url = git://github.com/joelsouza/kohana-flash-messages.git
@@ -1111,9 +1099,6 @@
 [submodule "gorm"]
 	path = gorm
 	url = git://github.com/glamorous/kohana-gorm.git
-[submodule "menu1"]
-	path = menu1
-	url = git://github.com/smgladkovskiy/kohana-menu.git
 [submodule "phpexcel"]
 	path = phpexcel
 	url = git://github.com/dshovchko/kohana-phpexcel.git
