@@ -154,3 +154,21 @@
 [submodule "auth1"]
 	path = auth1
 	url = git://github.com/ClaudioAlbertin/Kohana-Auth.git
+[submodule "publicize"]
+	path = publicize
+	url = git://github.com/DrPheltRight/publicize.git
+[submodule "attach-profiler"]
+	path = attach-profiler
+	url = git://github.com/gartz/Kohana-Attach-Profiler.git
+[submodule "oauth"]
+	path = oauth
+	url = git://github.com/kohana-world/kw-oauth.git
+[submodule "firelogger"]
+	path = firelogger
+	url = git://github.com/rodrigodk/kohana-firelogger.git
+[submodule "simple-auth"]
+	path = simple-auth
+	url = git://github.com/devi/simple-auth.git
+[submodule "oauth2"]
+	path = oauth2
+	url = git://github.com/managedit/kohana-oauth2.git
