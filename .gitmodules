@@ -172,3 +172,9 @@
 [submodule "oauth2"]
 	path = oauth2
 	url = git://github.com/managedit/kohana-oauth2.git
+[submodule "auto-modeler"]
+	path = auto-modeler
+	url = git://github.com/zombor/Auto-Modeler.git
+[submodule "view-model"]
+	path = view-model
+	url = git://github.com/zombor/View-Model.git
