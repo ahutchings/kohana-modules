@@ -178,3 +178,39 @@
 [submodule "view-model"]
 	path = view-model
 	url = git://github.com/zombor/View-Model.git
+[submodule "demo"]
+	path = demo
+	url = git://github.com/shadowhand/demo.git
+[submodule "xml"]
+	path = xml
+	url = git://github.com/Scribee/XML-Module-for-Kohana.git
+[submodule "tinyurl"]
+	path = tinyurl
+	url = git://github.com/Zedzed/Tinyurl.git
+[submodule "banstalkd"]
+	path = banstalkd
+	url = git://github.com/Nergal/kohana-banstalkd.git
+[submodule "event"]
+	path = event
+	url = git://github.com/Nergal/kohana-event.git
+[submodule "asset1"]
+	path = asset1
+	url = git://github.com/Nergal/kohana-asset.git
+[submodule "luthier-core"]
+	path = luthier-core
+	url = git://github.com/luthier/luthier-core.git
+[submodule "base-alternative"]
+	path = base-alternative
+	url = git://github.com/Luwe/Kohana-Base-Alternative.git
+[submodule "konfig"]
+	path = konfig
+	url = git://github.com/ryross/konfig.git
+[submodule "kacela"]
+	path = kacela
+	url = git://github.com/gabriel1836/Kacela.git
+[submodule "handlersocket"]
+	path = handlersocket
+	url = git://github.com/kolanos/kohana-handlersocket.git
+[submodule "rediska-ko"]
+	path = rediska-ko
+	url = git://github.com/cheggaaa/rediska-ko.git
