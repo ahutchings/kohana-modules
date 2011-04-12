@@ -565,9 +565,6 @@
 [submodule "wsdl"]
 	path = wsdl
 	url = git://github.com/misa/kohana-wsdl.git
-[submodule "new-auth"]
-	path = new-auth
-	url = git://github.com/biakaveron/new-auth.git
 [submodule "curl"]
 	path = curl
 	url = git://github.com/AlexKupreev/kohana-curl.git
@@ -676,9 +673,6 @@
 [submodule "oai"]
 	path = oai
 	url = git://github.com/wadechristie/kohana-oai.git
-[submodule "kform"]
-	path = kform
-	url = git://github.com/wadechristie/kohana-kform.git
 [submodule "uk-bank-modulus"]
 	path = uk-bank-modulus
 	url = git://github.com/kiddivouchers/uk-bank-modulus.git
