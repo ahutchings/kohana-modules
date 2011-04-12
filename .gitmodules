@@ -76,9 +76,6 @@
 [submodule "memcacheimp"]
 	path = memcacheimp
 	url = git://github.com/Kolger/kohana-memcacheimp.git
-[submodule "haml"]
-	path = haml
-	url = git://github.com/Nergal/haml.git
 [submodule "yboss"]
 	path = yboss
 	url = git://github.com/lefnire/yboss_kohana.git
