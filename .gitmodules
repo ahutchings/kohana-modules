@@ -214,3 +214,18 @@
 [submodule "rediska-ko"]
 	path = rediska-ko
 	url = git://github.com/cheggaaa/rediska-ko.git
+[submodule "metamongo"]
+	path = metamongo
+	url = git://github.com/dynamism/MetaMongo.git
+[submodule "kohanalytics"]
+	path = kohanalytics
+	url = git://github.com/matoakley/KohAnalytics.git
+[submodule "wauth"]
+	path = wauth
+	url = git://github.com/wadechristie/wauth.git
+[submodule "kostache-form-helper"]
+	path = kostache-form-helper
+	url = git://github.com/czukowski/kostache-form-helper.git
+[submodule "csrf"]
+	path = csrf
+	url = git://github.com/jmhobbs/K3-CSRF.git
