@@ -229,3 +229,24 @@
 [submodule "csrf"]
 	path = csrf
 	url = git://github.com/jmhobbs/K3-CSRF.git
+[submodule "sleepy"]
+	path = sleepy
+	url = git://github.com/iammerrick/Sleepy.git
+[submodule "fleepme-extensions"]
+	path = fleepme-extensions
+	url = git://github.com/Fleepme/Kohana-Fleepme-Extensions.git
+[submodule "media-controller"]
+	path = media-controller
+	url = git://github.com/ClaudioAlbertin/Kohana-Media-Controller.git
+[submodule "kiss"]
+	path = kiss
+	url = git://github.com/kemo/KiSS.git
+[submodule "pchart"]
+	path = pchart
+	url = git://github.com/ObjectiveCompany/kohana-pchart.git
+[submodule "pagination-helper"]
+	path = pagination-helper
+	url = git://github.com/czukowski/kostache-pagination-helper.git
+[submodule "registry"]
+	path = registry
+	url = git://github.com/gimpe/kohana-registry.git
