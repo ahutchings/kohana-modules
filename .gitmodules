@@ -250,3 +250,24 @@
 [submodule "registry"]
 	path = registry
 	url = git://github.com/gimpe/kohana-registry.git
+[submodule "pkcs5"]
+	path = pkcs5
+	url = git://github.com/chrismeller/pkcs5.git
+[submodule "soapbox"]
+	path = soapbox
+	url = git://github.com/daveWid/soapbox.git
+[submodule "flash"]
+	path = flash
+	url = git://github.com/ClaudioAlbertin/Kohana-Flash.git
+[submodule "watchy"]
+	path = watchy
+	url = git://github.com/angelix/kohana-watchy.git
+[submodule "openid"]
+	path = openid
+	url = git://github.com/kohana-world/kw-openid.git
+[submodule "whelpers"]
+	path = whelpers
+	url = git://github.com/wadechristie/whelpers.git
+[submodule "hoptoad"]
+	path = hoptoad
+	url = git://github.com/ahutchings/kohana-hoptoad.git
