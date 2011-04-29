@@ -1,3 +1,6 @@
+[submodule "developerbar"]
+	path = developerbar
+	url = git://github.com/marcelorodrigo/developerbar.git
 [submodule "errors"]
 	path = errors
 	url = git://github.com/managedit/kohana-errors.git
