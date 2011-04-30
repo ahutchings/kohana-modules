@@ -1,3 +1,9 @@
+[submodule "kophery"]
+	path = kophery
+	url = git://github.com/cambiata/kophery.git
+[submodule "kopjax"]
+	path = kopjax
+	url = git://github.com/cambiata/kopjax.git
 [submodule "developerbar"]
 	path = developerbar
 	url = git://github.com/marcelorodrigo/developerbar.git
