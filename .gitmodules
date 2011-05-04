@@ -130,9 +130,6 @@
 [submodule "template-plus"]
 	path = template-plus
 	url = git://github.com/jeanmask/template-plus.git
-[submodule "unittest1"]
-	path = unittest1
-	url = git://github.com/ClaudioAlbertin/Kohana-Unittest.git
 [submodule "redisko"]
 	path = redisko
 	url = git://github.com/Zedzed/Redisko.git
@@ -157,12 +154,6 @@
 [submodule "jqdoc-parser"]
 	path = jqdoc-parser
 	url = git://github.com/Yahasana/jqdoc-parser.git
-[submodule "form"]
-	path = form
-	url = git://github.com/ClaudioAlbertin/Kohana-Form.git
-[submodule "auth1"]
-	path = auth1
-	url = git://github.com/ClaudioAlbertin/Kohana-Auth.git
 [submodule "publicize"]
 	path = publicize
 	url = git://github.com/DrPheltRight/publicize.git
@@ -223,9 +214,6 @@
 [submodule "rediska-ko"]
 	path = rediska-ko
 	url = git://github.com/cheggaaa/rediska-ko.git
-[submodule "metamongo"]
-	path = metamongo
-	url = git://github.com/dynamism/MetaMongo.git
 [submodule "kohanalytics"]
 	path = kohanalytics
 	url = git://github.com/matoakley/KohAnalytics.git
