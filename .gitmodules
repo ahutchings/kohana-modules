@@ -268,3 +268,24 @@
 [submodule "hoptoad"]
 	path = hoptoad
 	url = git://github.com/ahutchings/kohana-hoptoad.git
+[submodule "encrypt"]
+	path = encrypt
+	url = git://github.com/ThorstenS/Kohana-Encrypt.git
+[submodule "krestful"]
+	path = krestful
+	url = git://github.com/samsoir/krestful.git
+[submodule "yaminify"]
+	path = yaminify
+	url = git://github.com/TdroL/kohana-yaminify.git
+[submodule "pixel-pagination"]
+	path = pixel-pagination
+	url = git://github.com/ThePixelDeveloper/pixel-pagination.git
+[submodule "url-shortener"]
+	path = url-shortener
+	url = git://github.com/davecarlson/Kohana-URL-Shortener.git
+[submodule "payment"]
+	path = payment
+	url = git://github.com/s1uggard/kohana3-payment.git
+[submodule "wysiwyg"]
+	path = wysiwyg
+	url = git://github.com/Leemo/kohana-wysiwyg.git
