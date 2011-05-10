@@ -289,3 +289,21 @@
 [submodule "wysiwyg"]
 	path = wysiwyg
 	url = git://github.com/Leemo/kohana-wysiwyg.git
+[submodule "oz-poll"]
+	path = oz-poll
+	url = git://github.com/openzula/kohana-oz-poll.git
+[submodule "bill"]
+	path = bill
+	url = git://github.com/XeeX/kohana-bill.git
+[submodule "assets1"]
+	path = assets1
+	url = git://github.com/hinton/assets.git
+[submodule "media"]
+	path = media
+	url = git://github.com/Leemo/kohana-media.git
+[submodule "money-tools"]
+	path = money-tools
+	url = git://github.com/sebicas/kohana-money-tools.git
+[submodule "pack"]
+	path = pack
+	url = git://github.com/goyote/pack.git
