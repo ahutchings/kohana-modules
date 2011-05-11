@@ -307,3 +307,21 @@
 [submodule "pack"]
 	path = pack
 	url = git://github.com/goyote/pack.git
+[submodule "charts"]
+	path = charts
+	url = git://github.com/butschster/Kohana-Charts.git
+[submodule "phly"]
+	path = phly
+	url = git://github.com/devi/phly.git
+[submodule "database-mssql"]
+	path = database-mssql
+	url = git://github.com/birkir/database-mssql.git
+[submodule "oz-ecommerce"]
+	path = oz-ecommerce
+	url = git://github.com/openzula/kohana-oz-ecommerce.git
+[submodule "recaptcha1"]
+	path = recaptcha1
+	url = git://github.com/openzula/kohana-recaptcha.git
+[submodule "release"]
+	path = release
+	url = git://github.com/Leemo/kohana-release.git
