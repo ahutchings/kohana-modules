@@ -325,3 +325,6 @@
 [submodule "release"]
 	path = release
 	url = git://github.com/Leemo/kohana-release.git
+[submodule "kohana-log-email"]
+	path = kohana-log-email
+	url = git://github.com/iammerrick/Kohana-Log-Email.git
