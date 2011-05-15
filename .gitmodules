@@ -328,3 +328,6 @@
 [submodule "kohana-log-email"]
 	path = kohana-log-email
 	url = git://github.com/iammerrick/Kohana-Log-Email.git
+[submodule "firephp"]
+	path = firephp
+	url = git://github.com/kemo/kohana-firephp.git
