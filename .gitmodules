@@ -226,9 +226,6 @@
 [submodule "koview"]
 	path = koview
 	url = git://github.com/birkir/koview.git
-[submodule "konilla"]
-	path = konilla
-	url = git://github.com/birkir/konilla.git
 [submodule "lang"]
 	path = lang
 	url = git://github.com/GeertDD/kohana-lang.git
@@ -673,9 +670,6 @@
 [submodule "oai"]
 	path = oai
 	url = git://github.com/wadechristie/kohana-oai.git
-[submodule "uk-bank-modulus"]
-	path = uk-bank-modulus
-	url = git://github.com/kiddivouchers/uk-bank-modulus.git
 [submodule "config-yaml"]
 	path = config-yaml
 	url = git://github.com/dleavitt/kohana-config-yaml.git
@@ -841,9 +835,6 @@
 [submodule "orm-crud"]
 	path = orm-crud
 	url = git://github.com/rowanparker/kohana-3-orm-crud.git
-[submodule "html-table"]
-	path = html-table
-	url = git://github.com/wadechristie/kohana-html-table.git
 [submodule "webmaster"]
 	path = webmaster
 	url = git://github.com/kazelot/kohana-webmaster.git
