@@ -1264,3 +1264,6 @@
 [submodule "koig"]
 	path = koig
 	url = git://github.com/orifjon/koig.git
+[submodule "yaml"]
+	path = yaml
+	url = git://github.com/gevans/kohana-yaml.git
