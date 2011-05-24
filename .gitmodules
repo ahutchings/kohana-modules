@@ -328,3 +328,6 @@
 [submodule "firephp"]
 	path = firephp
 	url = git://github.com/kemo/kohana-firephp.git
+[submodule "yaml"]
+	path = yaml
+	url = git://github.com/gevans/kohana-yaml.git
