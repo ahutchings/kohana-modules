@@ -331,3 +331,9 @@
 [submodule "yaml"]
 	path = yaml
 	url = git://github.com/gevans/kohana-yaml.git
+[submodule "mangodb"]
+	path = mangodb
+	url = git://github.com/Wouterrr/MangoDB.git
+[submodule "purifier"]
+	path = purifier
+	url = git://github.com/shadowhand/purifier.git
