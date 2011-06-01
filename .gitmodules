@@ -82,9 +82,6 @@
 [submodule "assets"]
 	path = assets
 	url = git://github.com/drhevans/kohana-module--assets.git
-[submodule "fire_profiler"]
-	path = fire_profiler
-	url = git://github.com/transphorm/fire_profiler.git
 [submodule "twitter"]
 	path = twitter
 	url = git://github.com/andyhot/twitter-kohana.git
