@@ -337,3 +337,6 @@
 [submodule "purifier"]
 	path = purifier
 	url = git://github.com/shadowhand/purifier.git
+[submodule "deputy"]
+	path = deputy
+	url = git://github.com/michealmorgan/deputy.git
