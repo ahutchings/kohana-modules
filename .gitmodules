@@ -160,9 +160,6 @@
 [submodule "attach-profiler"]
 	path = attach-profiler
 	url = git://github.com/gartz/Kohana-Attach-Profiler.git
-[submodule "oauth"]
-	path = oauth
-	url = git://github.com/kohana-world/kw-oauth.git
 [submodule "firelogger"]
 	path = firelogger
 	url = git://github.com/rodrigodk/kohana-firelogger.git
