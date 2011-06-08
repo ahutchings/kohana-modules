@@ -364,3 +364,6 @@
 [submodule "pheanstalk"]
 	path = pheanstalk
 	url = git://github.com/rodrigodk/kohana-pheanstalk.git
+[submodule "qrcode"]
+	path = qrcode
+	url = git://github.com/juanparati/kohana-qrcode.git
