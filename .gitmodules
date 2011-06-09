@@ -367,3 +367,6 @@
 [submodule "qrcode"]
 	path = qrcode
 	url = git://github.com/juanparati/kohana-qrcode.git
+[submodule "gmaps3"]
+	path = gmaps3
+	url = git://github.com/juanparati/kohana-gmaps3.git
