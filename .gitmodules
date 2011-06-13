@@ -370,3 +370,24 @@
 [submodule "gmaps3"]
 	path = gmaps3
 	url = git://github.com/juanparati/kohana-gmaps3.git
+[submodule "qrcode1"]
+	path = qrcode1
+	url = git://github.com/smgladkovskiy/kohana-qrcode.git
+[submodule "xgffmpeg"]
+	path = xgffmpeg
+	url = git://github.com/webpiraten/xgffmpeg.git
+[submodule "xgbbcode"]
+	path = xgbbcode
+	url = https://github.com/webpiraten/xgbbcode.git
+[submodule "cli"]
+	path = cli
+	url = git://github.com/jmhobbs/K3-CLI.git
+[submodule "mogilefs"]
+	path = mogilefs
+	url = git://github.com/managedit/kohana-mogilefs.git
+[submodule "recaptcha2"]
+	path = recaptcha2
+	url = git://github.com/LKay/kohana-recaptcha.git
+[submodule "html5-helpers"]
+	path = html5-helpers
+	url = git://github.com/andrezahn/Kohana-HTML5-Helpers.git
