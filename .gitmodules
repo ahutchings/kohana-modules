@@ -178,9 +178,6 @@
 [submodule "demo"]
 	path = demo
 	url = git://github.com/shadowhand/demo.git
-[submodule "xml"]
-	path = xml
-	url = git://github.com/Scribee/XML-Module-for-Kohana.git
 [submodule "tinyurl"]
 	path = tinyurl
 	url = git://github.com/Zedzed/Tinyurl.git
