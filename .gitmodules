@@ -388,3 +388,33 @@
 [submodule "html5-helpers"]
 	path = html5-helpers
 	url = git://github.com/andrezahn/Kohana-HTML5-Helpers.git
+[submodule "iks"]
+	path = iks
+	url = git://github.com/burningtree/kohana-iks.git
+[submodule "dispatcher"]
+	path = dispatcher
+	url = git://github.com/emtou/kohana-dispatcher.git
+[submodule "mvcbreadcrumbs"]
+	path = mvcbreadcrumbs
+	url = git://github.com/emtou/kohana-mvcbreadcrumbs.git
+[submodule "event1"]
+	path = event1
+	url = git://github.com/thinkclay/Kohana-Event-Module.git
+[submodule "auth-mongodb"]
+	path = auth-mongodb
+	url = git://github.com/MatejinaS/Kohana-Auth-MongoDB-module.git
+[submodule "cms-core"]
+	path = cms-core
+	url = git://github.com/bgreenacre/kohanacms-core.git
+[submodule "xgmarkdown"]
+	path = xgmarkdown
+	url = git://github.com/webpiraten/xgmarkdown.git
+[submodule "dependencies"]
+	path = dependencies
+	url = git://github.com/synapsestudios/kohana-dependencies.git
+[submodule "orm-tree"]
+	path = orm-tree
+	url = git://github.com/roomcays/kohana-orm-tree.git
+[submodule "cassandra"]
+	path = cassandra
+	url = git://github.com/jnbdz/Kohana-Cassandra.git
