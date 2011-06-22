@@ -201,7 +201,7 @@
 	url = git://github.com/ryross/konfig.git
 [submodule "kacela"]
 	path = kacela
-	url = git://github.com/gabriel1836/Kacela.git
+	url = git://github.com/gabriel1836/kohana-kacela.git
 [submodule "handlersocket"]
 	path = handlersocket
 	url = git://github.com/kolanos/kohana-handlersocket.git
