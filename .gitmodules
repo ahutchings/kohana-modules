@@ -358,9 +358,6 @@
 [submodule "jelly-torn"]
 	path = jelly-torn
 	url = git://github.com/TdroL/kohana-jelly-torn.git
-[submodule "jelly-filtered"]
-	path = jelly-filtered
-	url = git://github.com/leth/jelly-filtered.git
 [submodule "sftemplating"]
 	path = sftemplating
 	url = git://github.com/praxxis/sftemplating.git
