@@ -421,3 +421,9 @@
 [submodule "storage"]
 	path = storage
 	url = git://github.com/michealmorgan/kohana-storage.git
+[submodule "jelly"]
+	path = jelly
+	url = git://github.com/creatoro/kohana-jelly-for-Kohana-3.1.git
+[submodule "jelly-filtered"]
+	path = jelly-filtered
+	url = git://github.com/leth/jelly-filtered.git
