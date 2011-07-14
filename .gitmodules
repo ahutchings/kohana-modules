@@ -286,9 +286,6 @@
 [submodule "sentry"]
 	path = sentry
 	url = git://github.com/vimofthevine/sentry.git
-[submodule "vk"]
-	path = vk
-	url = git://github.com/Slaver/vk.git
 [submodule "cdm"]
 	path = cdm
 	url = git://github.com/jylinman/kohana-cdm.git
@@ -1021,9 +1018,6 @@
 [submodule "kotwig"]
 	path = kotwig
 	url = git://github.com/Burgestrand/kotwig.git
-[submodule "twitter1"]
-	path = twitter1
-	url = git://github.com/somorok/Kohana-Twitter.git
 [submodule "jelly-auth1"]
 	path = jelly-auth1
 	url = git://github.com/LekisS/jelly-auth.git
