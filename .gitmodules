@@ -223,15 +223,9 @@
 [submodule "sleepy"]
 	path = sleepy
 	url = git://github.com/iammerrick/Sleepy.git
-[submodule "fleepme-extensions"]
-	path = fleepme-extensions
-	url = git://github.com/Fleepme/Kohana-Fleepme-Extensions.git
 [submodule "media-controller"]
 	path = media-controller
 	url = git://github.com/ClaudioAlbertin/Kohana-Media-Controller.git
-[submodule "kiss"]
-	path = kiss
-	url = git://github.com/kemo/KiSS.git
 [submodule "pchart"]
 	path = pchart
 	url = git://github.com/ObjectiveCompany/kohana-pchart.git
@@ -313,9 +307,6 @@
 [submodule "recaptcha1"]
 	path = recaptcha1
 	url = git://github.com/openzula/kohana-recaptcha.git
-[submodule "release"]
-	path = release
-	url = git://github.com/Leemo/kohana-release.git
 [submodule "kohana-log-email"]
 	path = kohana-log-email
 	url = git://github.com/iammerrick/Kohana-Log-Email.git
