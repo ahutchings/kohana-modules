@@ -418,3 +418,24 @@
 [submodule "jelly-filtered"]
 	path = jelly-filtered
 	url = git://github.com/leth/jelly-filtered.git
+[submodule "dbutil"]
+	path = dbutil
+	url = git://github.com/d4rky-pl/Kohana-DBUtil.git
+[submodule "asset2"]
+	path = asset2
+	url = git://github.com/ClaudioAlbertin/Kohana-Asset.git
+[submodule "statemachine"]
+	path = statemachine
+	url = git://github.com/PinpointSocial/statemachine.git
+[submodule "wiki"]
+	path = wiki
+	url = git://github.com/Leemo/kohana-wiki.git
+[submodule "testsuite"]
+	path = testsuite
+	url = git://github.com/emtou/kohana-testsuite.git
+[submodule "asset3"]
+	path = asset3
+	url = git://github.com/beautiful/asset.git
+[submodule "view"]
+	path = view
+	url = git://github.com/beautiful/view.git
