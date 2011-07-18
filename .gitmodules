@@ -439,3 +439,6 @@
 [submodule "view"]
 	path = view
 	url = git://github.com/beautiful/view.git
+[submodule "restify"]
+	path = restify
+	url = git://github.com/michealmorgan/kohana-restify.git
