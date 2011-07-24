@@ -103,3 +103,9 @@
 [submodule "recaptcha"]
 	path = recaptcha
 	url = git://github.com/rgenito/Kohana-2.3-reCAPTCHA.git
+[submodule "bugsense"]
+	path = bugsense
+	url = git://github.com/andyhot/bugsense-kohana.git
+[submodule "yaat"]
+	path = yaat
+	url = git://github.com/andyhot/yaat-kohana.git
