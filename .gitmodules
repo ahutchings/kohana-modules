@@ -445,3 +445,9 @@
 [submodule "pt-inflector"]
 	path = pt-inflector
 	url = git://github.com/xurumelous/kohana-pt-inflector.git
+[submodule "smarty3"]
+	path = smarty3
+	url = git://github.com/MrAnchovy/Kohana_Smarty3.git
+[submodule "simpletest"]
+	path = simpletest
+	url = git://github.com/MrAnchovy/Kohana_SimpleTest.git
