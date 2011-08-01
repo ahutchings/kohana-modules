@@ -1263,4 +1263,4 @@
 	url = git://github.com/MrAnchovy/Kohana_Smarty3.git
 [submodule "simpletest"]
 	path = simpletest
-	url = git@github.com:MrAnchovy/Kohana_SimpleTest.git
+	url = git://github.com/MrAnchovy/Kohana_SimpleTest.git
