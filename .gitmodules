@@ -451,3 +451,6 @@
 [submodule "simpletest"]
 	path = simpletest
 	url = git://github.com/MrAnchovy/Kohana_SimpleTest.git
+[submodule "yamlDemon"]
+	path = yamlDemon
+	url = git@github.com:happyDemon/yamlDemon.git
