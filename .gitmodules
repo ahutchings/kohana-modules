@@ -451,3 +451,6 @@
 [submodule "simpletest"]
 	path = simpletest
 	url = git://github.com/MrAnchovy/Kohana_SimpleTest.git
+[submodule "formal"]
+	path = formal
+	url = git@github.com:wgiog/kohana-formal.git
