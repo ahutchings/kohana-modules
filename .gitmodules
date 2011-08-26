@@ -25,3 +25,6 @@
 [submodule "formal"]
 	path = formal
 	url = git://github.com/wgiog/kohana-formal.git
+[submodule "subdomain"]
+	path = subdomain
+	url = git://github.com/jeanmask/subdomain.git
