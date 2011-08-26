@@ -22,3 +22,6 @@
 [submodule "codebench"]
 	path = codebench
 	url = git://github.com/kohana/codebench.git
+[submodule "subdomain"]
+	path = subdomain
+	url = git://github.com/jeanmask/subdomain.git
