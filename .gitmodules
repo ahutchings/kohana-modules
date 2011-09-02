@@ -28,3 +28,9 @@
 [submodule "subdomain"]
 	path = subdomain
 	url = git://github.com/jeanmask/subdomain.git
+[submodule "gmaps3"]
+	path = gmaps3
+	url = git://github.com/juanparati/kohana-gmaps3.git
+[submodule "qrcode"]
+	path = qrcode
+	url = git://github.com/juanparati/kohana-qrcode.git
