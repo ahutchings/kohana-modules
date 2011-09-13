@@ -34,3 +34,6 @@
 [submodule "qrcode"]
 	path = qrcode
 	url = git://github.com/juanparati/kohana-qrcode.git
+[submodule "amf"]
+	path = amf
+	url = git@github.com:Lowgain/amf.git
