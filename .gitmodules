@@ -34,3 +34,6 @@
 [submodule "qrcode"]
 	path = qrcode
 	url = git://github.com/juanparati/kohana-qrcode.git
+[submodule "haml"]
+	path = haml
+	url = git@github.com:d4rky-pl/kohana3-haml.git
