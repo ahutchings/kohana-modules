@@ -451,3 +451,6 @@
 [submodule "simpletest"]
 	path = simpletest
 	url = git://github.com/MrAnchovy/Kohana_SimpleTest.git
+[submodule "solr-json"]
+	path = solr-json
+	url = git@github.com:demandmedia/kohana-solr.git
