@@ -1,0 +1,45 @@
+[submodule "unittest"]
+	path = unittest
+	url = git://github.com/kohana/unittest.git
+[submodule "userguide"]
+	path = userguide
+	url = git://github.com/kohana/userguide.git
+[submodule "image"]
+	path = image
+	url = git://github.com/kohana/image.git
+[submodule "auth"]
+	path = auth
+	url = git://github.com/kohana/auth.git
+[submodule "cache"]
+	path = cache
+	url = git://github.com/kohana/cache.git
+[submodule "orm"]
+	path = orm
+	url = git://github.com/kohana/orm.git
+[submodule "database"]
+	path = database
+	url = git://github.com/kohana/database.git
+[submodule "codebench"]
+	path = codebench
+	url = git://github.com/kohana/codebench.git
+[submodule "formal"]
+	path = formal
+	url = git://github.com/wgiog/kohana-formal.git
+[submodule "subdomain"]
+	path = subdomain
+	url = git://github.com/jeanmask/subdomain.git
+[submodule "gmaps3"]
+	path = gmaps3
+	url = git://github.com/juanparati/kohana-gmaps3.git
+[submodule "qrcode"]
+	path = qrcode
+	url = git://github.com/juanparati/kohana-qrcode.git
+[submodule "amf"]
+	path = amf
+	url = git://github.com/Lowgain/amf.git
+[submodule "haml"]
+	path = haml
+	url = git://github.com/d4rky-pl/kohana3-haml.git
+[submodule "yamlDemon"]
+	path = yamlDemon
+	url = git://github.com/happyDemon/yamlDemon.git
