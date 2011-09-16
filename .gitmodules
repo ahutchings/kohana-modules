@@ -43,3 +43,6 @@
 [submodule "yamlDemon"]
 	path = yamlDemon
 	url = git://github.com/happyDemon/yamlDemon.git
+[submodule "pt-inflector"]
+	path = pt-inflector
+	url = git://github.com/xurumelous/kohana-pt-inflector.git
