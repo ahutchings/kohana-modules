@@ -454,3 +454,6 @@
 [submodule "solr-json"]
 	path = solr-json
 	url = git://github.com/demandmedia/kohana-solr.git
+[submodule "realpostprocess"]
+	path = realpostprocess
+	url = git@github.com:julianhille/kohana-real-post-process.git
