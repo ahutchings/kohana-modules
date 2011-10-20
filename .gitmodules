@@ -46,3 +46,12 @@
 [submodule "pt-inflector"]
 	path = pt-inflector
 	url = git://github.com/xurumelous/kohana-pt-inflector.git
+[submodule "dataflow"]
+	path = dataflow
+	url = git://github.com/michealmorgan/kohana-dataflow.git
+[submodule "storage"]
+	path = storage
+	url = git://github.com/michealmorgan/kohana-storage.git
+[submodule "restify"]
+	path = restify
+	url = git://github.com/michealmorgan/kohana-restify.git
