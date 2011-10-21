@@ -55,3 +55,6 @@
 [submodule "restify"]
 	path = restify
 	url = git://github.com/michealmorgan/kohana-restify.git
+[submodule "tableau"]
+	path = tableau
+	url = git://github.com/shanesmith/Kohana-Tableau.git
