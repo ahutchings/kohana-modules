@@ -58,3 +58,6 @@
 [submodule "tableau"]
 	path = tableau
 	url = git://github.com/shanesmith/Kohana-Tableau.git
+[submodule "dispatch"]
+	path = dispatch
+	url = git://github.com/michealmorgan/kohana-dispatch.git
