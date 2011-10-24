@@ -324,10 +324,10 @@
 	url = git://github.com/shadowhand/purifier.git
 [submodule "deputy"]
 	path = deputy
-	url = git://github.com/michealmorgan/deputy.git
+	url = git://github.com/michealmorgan/kohana-deputy.git
 [submodule "dataflow"]
 	path = dataflow
-	url = git://github.com/michealmorgan/dataflow.git
+	url = git://github.com/michealmorgan/kohana-dataflow.git
 [submodule "braintree"]
 	path = braintree
 	url = git://github.com/synapsestudios/kohana-braintree.git
