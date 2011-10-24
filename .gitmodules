@@ -61,3 +61,6 @@
 [submodule "dispatch"]
 	path = dispatch
 	url = git://github.com/michealmorgan/kohana-dispatch.git
+[submodule "deputy"]
+	path = deputy
+	url = git://github.com/michealmorgan/kohana-deputy.git
