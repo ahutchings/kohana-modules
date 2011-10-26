@@ -64,3 +64,6 @@
 [submodule "deputy"]
 	path = deputy
 	url = git://github.com/michealmorgan/kohana-deputy.git
+[submodule "kohana-pagseguro"]
+	path = kohana-pagseguro
+	url = git@github.com:madeinnordeste/kohana-pagseguro.git
