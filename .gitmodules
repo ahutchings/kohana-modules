@@ -67,3 +67,7 @@
 [submodule "pagseguro"]
 	path = pagseguro
 	url = git://github.com/madeinnordeste/kohana-pagseguro.git
+[submodule "happycfg"]
+	path = happyCfg
+	url = git://github.com/happyDemon/happyCfg.git
+
