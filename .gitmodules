@@ -70,4 +70,6 @@
 [submodule "happycfg"]
 	path = happyCfg
 	url = git://github.com/happyDemon/happyCfg.git
-
+[submodule "kohana-pure-ldap"]
+	path = kohana-pure-ldap
+	url = git://github.com/BHSPitMonkey/kohana-pure-ldap.git
