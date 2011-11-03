@@ -76,3 +76,6 @@
 [submodule "FacebooKO"]
 	path = FacebooKO
 	url = git://github.com/ernestas/FacebooKO.git
+[submodule "zendamf-for-kohana"]
+	path = zendamf-for-kohana
+	url = git://github.com/ernestas/zendamf-for-kohana.git
