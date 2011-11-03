@@ -73,3 +73,6 @@
 [submodule "kohana-pure-ldap"]
 	path = kohana-pure-ldap
 	url = git://github.com/BHSPitMonkey/kohana-pure-ldap.git
+[submodule "FacebooKO"]
+	path = FacebooKO
+	url = git://github.com/ernestas/FacebooKO.git
