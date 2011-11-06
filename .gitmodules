@@ -382,9 +382,6 @@
 [submodule "pngtext"]
 	path = pngtext
 	url = git://github.com/jheathco/kohana-pngtext.git
-[submodule "formo-jelly"]
-	path = formo-jelly
-	url = git://github.com/bmidget/kohana-formo-jelly.git
 [submodule "storage"]
 	path = storage
 	url = git://github.com/cbandy/kohana-storage.git
@@ -439,9 +436,6 @@
 [submodule "convert"]
 	path = convert
 	url = git://github.com/transphorm/convert.git
-[submodule "params"]
-	path = params
-	url = git://github.com/TdroL/kohana-params.git
 [submodule "devtools"]
 	path = devtools
 	url = git://github.com/bluehawk/devtools.git
@@ -469,9 +463,6 @@
 [submodule "dom-query"]
 	path = dom-query
 	url = git://github.com/samsoir/kohana-dom-query.git
-[submodule "date"]
-	path = date
-	url = git://github.com/BRMatt/kohana-date.git
 [submodule "firephp1"]
 	path = firephp1
 	url = git://github.com/pedrosland/kohana-firephp.git
@@ -778,9 +769,6 @@
 [submodule "kladr"]
 	path = kladr
 	url = git://github.com/smgladkovskiy/kohana-kladr.git
-[submodule "kcss"]
-	path = kcss
-	url = git://github.com/alexgisby/kCSS.git
 [submodule "mauth"]
 	path = mauth
 	url = git://github.com/alexgisby/MAuth.git
@@ -829,9 +817,6 @@
 [submodule "orm-crud"]
 	path = orm-crud
 	url = git://github.com/rowanparker/kohana-3-orm-crud.git
-[submodule "webmaster"]
-	path = webmaster
-	url = git://github.com/kazelot/kohana-webmaster.git
 [submodule "geolocator-quova"]
 	path = geolocator-quova
 	url = git://github.com/LKay/kohana-geolocator-quova.git
@@ -901,9 +886,6 @@
 [submodule "stacks"]
 	path = stacks
 	url = git://github.com/ahutchings/kohana-stacks.git
-[submodule "gtasks"]
-	path = gtasks
-	url = git://github.com/ahutchings/kohana-gtasks.git
 [submodule "prophet"]
 	path = prophet
 	url = git://github.com/DrPheltRight/Prophet.git
@@ -988,9 +970,6 @@
 [submodule "simplemigrations"]
 	path = simplemigrations
 	url = git://github.com/Xobb/simplemigrations.git
-[submodule "iris-and-optic"]
-	path = iris-and-optic
-	url = git://github.com/DrPheltRight/Iris-and-Optic.git
 [submodule "console1"]
 	path = console1
 	url = git://github.com/ukko/kohana-3-console.git
@@ -1027,9 +1006,6 @@
 [submodule "html_parser"]
 	path = html_parser
 	url = git://github.com/kemo/html_parser.git
-[submodule "migrations1"]
-	path = migrations1
-	url = git://github.com/ThePixelDeveloper/kohana-migrations.git
 [submodule "kogitlog"]
 	path = kogitlog
 	url = git://github.com/Burgestrand/kogitlog.git
@@ -1048,9 +1024,6 @@
 [submodule "pdftk"]
 	path = pdftk
 	url = git://github.com/synapsestudios/kohana-pdftk.git
-[submodule "taskqueue"]
-	path = taskqueue
-	url = git://github.com/brianewing/kohana-taskqueue.git
 [submodule "kodwoo"]
 	path = kodwoo
 	url = git://github.com/tylerl/Kodwoo.git
@@ -1174,9 +1147,6 @@
 [submodule "google-shorten"]
 	path = google-shorten
 	url = git://github.com/mongeslani/kohana-google-shorten.git
-[submodule "assist"]
-	path = assist
-	url = git://github.com/Leemo/kohana-assist.git
 [submodule "nav"]
 	path = nav
 	url = git://github.com/jesusdiez/kohana-nav.git
