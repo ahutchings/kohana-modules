@@ -1039,9 +1039,6 @@
 [submodule "console2"]
 	path = console2
 	url = git://github.com/FerumFlex/kohana-console.git
-[submodule "bolt-auth"]
-	path = bolt-auth
-	url = git://github.com/boltcms/bolt-auth.git
 [submodule "database-mysqli"]
 	path = database-mysqli
 	url = git://github.com/Azuka/Kohana-Database-MySQLi.git
