@@ -84,16 +84,16 @@
 	url = git://github.com/ernestas/Kohana-StatsD.git
 [submodule "jelly-upload"]
 	path = jelly-upload
-	url = git@github.com:OpenBuildings/jelly-upload.git
+	url = git://github.com/OpenBuildings/jelly-upload.git
 [submodule "timestamped-migrations"]
 	path = timestamped-migrations
-	url = git@github.com:OpenBuildings/timestamped-migrations.git
+	url = git://github.com/OpenBuildings/timestamped-migrations.git
 [submodule "form-builder"]
 	path = form-builder
-	url = git@github.com:OpenBuildings/form-builder.git
+	url = git://github.com/OpenBuildings/form-builder.git
 [submodule "asset-merger"]
 	path = asset-merger
-	url = git@github.com:OpenBuildings/asset-merger.git
+	url = git://github.com/OpenBuildings/asset-merger.git
 [submodule "kohana-cli"]
 	path = kohana-cli
-	url = git@github.com:OpenBuildings/kohana-cli.git
+	url = git://github.com/OpenBuildings/kohana-cli.git
