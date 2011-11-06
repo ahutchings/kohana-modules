@@ -394,9 +394,6 @@
 [submodule "auth-mongodb"]
 	path = auth-mongodb
 	url = git://github.com/MatejinaS/Kohana-Auth-MongoDB-module.git
-[submodule "cms-core"]
-	path = cms-core
-	url = git://github.com/bgreenacre/kohanacms-core.git
 [submodule "xgmarkdown"]
 	path = xgmarkdown
 	url = git://github.com/webpiraten/xgmarkdown.git
