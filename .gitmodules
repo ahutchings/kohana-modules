@@ -97,3 +97,6 @@
 [submodule "kohana-cli"]
 	path = kohana-cli
 	url = git://github.com/OpenBuildings/kohana-cli.git
+[submodule "kohana-facebook"]
+	path = kohana-facebook
+	url = git://github.com:bbedwell/kohana-facebook.git
