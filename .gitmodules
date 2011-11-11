@@ -1264,3 +1264,6 @@
 [submodule "simpletest"]
 	path = simpletest
 	url = git://github.com/MrAnchovy/Kohana_SimpleTest.git
+[submodule "kohana-timthumb"]
+	path = kohana-timthumb
+	url = git@github.com:madeinnordeste/kohana-timthumb.git
