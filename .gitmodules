@@ -100,3 +100,6 @@
 [submodule "kohana-facebook"]
 	path = kohana-facebook
 	url = git://github.com/bbedwell/kohana-facebook.git
+[submodule "developerbar"]
+	path = developerbar
+	url = git://github.com/marcelorodrigo/developerbar.git
