@@ -103,3 +103,6 @@
 [submodule "developerbar"]
 	path = developerbar
 	url = git://github.com/marcelorodrigo/developerbar.git
+[submodule "kohana-orm-leap"]
+	path = kohana-orm-leap
+	url = git@github.com:spadefoot/kohana-modules.git
