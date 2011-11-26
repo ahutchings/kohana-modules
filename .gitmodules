@@ -105,4 +105,4 @@
 	url = git://github.com/marcelorodrigo/developerbar.git
 [submodule "kohana-orm-leap"]
 	path = kohana-orm-leap
-	url = git@github.com:spadefoot/kohana-orm-leap.git
+	url = git://github.com/spadefoot/kohana-orm-leap.git
