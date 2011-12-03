@@ -106,3 +106,6 @@
 [submodule "kohana-orm-leap"]
 	path = kohana-orm-leap
 	url = git://github.com/spadefoot/kohana-orm-leap.git
+[submodule "kohana-mcache"]
+	path = kohana-mcache
+	url = git://github.com/bbedwell/kohana-mcache.git
