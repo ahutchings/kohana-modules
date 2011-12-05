@@ -99,7 +99,7 @@
 	url = git://github.com/OpenBuildings/kohana-cli.git
 [submodule "kohana-facebook"]
 	path = kohana-facebook
-	url = git://github.com/bbedwell/kohana-facebook.git
+	url = git://github.com/bbedwell/kohana-fb.git
 [submodule "developerbar"]
 	path = developerbar
 	url = git://github.com/marcelorodrigo/developerbar.git
@@ -109,3 +109,6 @@
 [submodule "kohana-mcache"]
 	path = kohana-mcache
 	url = git://github.com/bbedwell/kohana-mcache.git
+[submodule "kohana-fcache"]
+	path = kohana-fcache
+	url = git://github.com/bbedwell/kohana-fcache.git
