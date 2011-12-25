@@ -112,3 +112,6 @@
 [submodule "kohana-fcache"]
 	path = kohana-fcache
 	url = git://github.com/bbedwell/kohana-fcache.git
+[submodule "commoneer"]
+	path = commoneer
+	url = git://github.com/anroots/kohana-commoneer.git
