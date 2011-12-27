@@ -117,4 +117,4 @@
 	url = git://github.com/anroots/kohana-commoneer.git
 [submodule "db-backup"]
 	path = db-backup
-	url = https://github.com/sudeste/db-backup
+	url = git://github.com/sudeste/db-backup.git
