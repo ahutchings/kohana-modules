@@ -120,4 +120,4 @@
 	url = git://github.com/sudeste/db-backup.git
 [submodule "Kohana-SSH"]
 	path = Kohana-SSH
-	url = git@github.com:jexmex/Kohana-SSH.git
+	url = git://github.com/jexmex/Kohana-SSH.git
