@@ -121,3 +121,6 @@
 [submodule "Kohana-SSH"]
 	path = Kohana-SSH
 	url = git://github.com/jexmex/Kohana-SSH.git
+[submodule "imagefly"]
+	path = imagefly
+	url = git://github.com/Bodom78/imagefly.git
