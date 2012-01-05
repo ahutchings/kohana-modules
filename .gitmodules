@@ -25,9 +25,6 @@
 [submodule "formal"]
 	path = formal
 	url = git://github.com/wgiog/kohana-formal.git
-[submodule "subdomain"]
-	path = subdomain
-	url = git://github.com/jeanmask/subdomain.git
 [submodule "gmaps3"]
 	path = gmaps3
 	url = git://github.com/juanparati/kohana-gmaps3.git
@@ -124,3 +121,6 @@
 [submodule "imagefly"]
 	path = imagefly
 	url = git://github.com/Bodom78/imagefly.git
+[submodule "subdomain"]
+	path = subdomain
+	url = git://github.com/jeanmask/subdomain.git
