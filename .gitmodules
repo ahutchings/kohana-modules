@@ -130,3 +130,6 @@
 [submodule "kohana-authormfrontend"]
 	path = kohana-authormfrontend
 	url = git://github.com/colinbm/kohana-authormfrontend.git
+[submodule "email-queue"]
+	path = email-queue
+	url = git://github.com/3stecnologia/Email-Queue.git
