@@ -124,3 +124,9 @@
 [submodule "subdomain"]
 	path = subdomain
 	url = git://github.com/jeanmask/subdomain.git
+[submodule "kohana-formmanager"]
+	path = kohana-formmanager
+	url = git://github.com/colinbm/kohana-formmanager.git
+[submodule "kohana-authormfrontend"]
+	path = kohana-authormfrontend
+	url = git://github.com/colinbm/kohana-authormfrontend.git
