@@ -124,3 +124,6 @@
 [submodule "subdomain"]
 	path = subdomain
 	url = git://github.com/jeanmask/subdomain.git
+[submodule "emailqueue"]
+	path = emailqueue
+	url = https://github.com/3stecnologia/Email-Queue.git
