@@ -133,3 +133,6 @@
 [submodule "email-queue"]
 	path = email-queue
 	url = git://github.com/3stecnologia/Email-Queue.git
+[submodule "kohana-translate-api"]
+	path = kohana-translate-api
+	url = git://github.com/make-soft/kohana-translation-api.git
