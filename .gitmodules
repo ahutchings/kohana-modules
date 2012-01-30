@@ -136,3 +136,6 @@
 [submodule "kohana-translate-api"]
 	path = kohana-translate-api
 	url = git://github.com/make-soft/kohana-translation-api.git
+[submodule "fuzzy-span"]
+	path = fuzzy-span
+	url = git://github.com/apankov/fuzzy-span.git
