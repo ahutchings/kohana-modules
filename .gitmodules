@@ -130,3 +130,9 @@
 [submodule "kohana-authormfrontend"]
 	path = kohana-authormfrontend
 	url = git://github.com/colinbm/kohana-authormfrontend.git
+[submodule "kohana-flash"]
+	path = kohana-flash
+	url = git://github.com/colinbm/kohana-flash.git
+[submodule "kohana-pagination"]
+	path = kohana-pagination
+	url = git://github.com/colinbm/kohana-pagination.git
