@@ -454,3 +454,6 @@
 [submodule "real-post-process"]
 	path = real-post-process
 	url = git://github.com/julianhille/kohana-real-post-process.git
+[submodule "partials"]
+	path = partials
+	url = git://github.com/gevans/kohana-partials.git
