@@ -148,3 +148,6 @@
 [submodule "partials"]
 	path = partials
 	url = git://github.com/gevans/kohana-partials.git
+[submodule "html2pdf"]
+	path = html2pdf
+	url = git://github.com/sudeste/Kohana-html2pdf.git
