@@ -151,3 +151,6 @@
 [submodule "html2pdf"]
 	path = html2pdf
 	url = git://github.com/sudeste/Kohana-html2pdf.git
+[submodule "kohana-doctrine"]
+	path = kohana-doctrine
+	url = ./kohana-doctrine/
