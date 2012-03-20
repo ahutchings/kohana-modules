@@ -154,3 +154,6 @@
 [submodule "doctrine"]
 	path = doctrine
 	url = git://github.com/stegeman/kohana-doctrine.git
+[submodule "profilertoolbar"]
+	path = profilertoolbar
+	url = git://github.com/Alert/profilertoolbar.git
