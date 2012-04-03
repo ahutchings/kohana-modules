@@ -457,3 +457,6 @@
 [submodule "partials"]
 	path = partials
 	url = git://github.com/gevans/kohana-partials.git
+[submodule "lattice"]
+	path = lattice
+	url = git@github.com:deepwinter/lattice.git
