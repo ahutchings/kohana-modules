@@ -460,3 +460,6 @@
 [submodule "lattice"]
 	path = lattice
 	url = git://github.com/deepwinter/lattice.git
+[submodule "transactional"]
+	path = transactional
+	url = git://github.com/brazzy/kohana-transactional.git
