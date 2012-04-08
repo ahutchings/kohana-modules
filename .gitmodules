@@ -157,3 +157,6 @@
 [submodule "profilertoolbar"]
 	path = profilertoolbar
 	url = git://github.com/Alert/profilertoolbar.git
+[submodule "transactional"]
+	path = transactional
+	url = git://github.com/brazzy/kohana-transactional.git
