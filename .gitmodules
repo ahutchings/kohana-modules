@@ -160,3 +160,6 @@
 [submodule "transactional"]
 	path = transactional
 	url = git://github.com/brazzy/kohana-transactional.git
+[submodule "airbrake"]
+	path = airbrake
+	url = git://github.com/gevans/kohana-airbrake.git
