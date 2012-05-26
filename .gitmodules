@@ -169,3 +169,6 @@
 [submodule "raven"]
 	path = raven
 	url = git://github.com/tony/kohana-raven.git
+[submodule "flexible-migrations"]
+	path = flexible-migrations
+	url = git@github.com:ferpetrelli/kohana-flexible-migrations.git
