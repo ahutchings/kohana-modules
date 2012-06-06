@@ -172,3 +172,9 @@
 [submodule "flexible-migrations"]
 	path = flexible-migrations
 	url = git://github.com/ferpetrelli/kohana-flexible-migrations.git
+[submodule "paginate"]
+	path = paginate
+	url = git://github.com/michealmorgan/kohana-paginate.git
+[submodule "datatables"]
+	path = datatables
+	url = git://github.com/michealmorgan/kohana-datatables.git
