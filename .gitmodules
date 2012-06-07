@@ -178,3 +178,6 @@
 [submodule "datatables"]
 	path = datatables
 	url = git://github.com/michealmorgan/kohana-datatables.git
+[submodule "mustache"]
+	path = mustache
+	url = git://github.com/laurent22/Kohana-Mustache.git
