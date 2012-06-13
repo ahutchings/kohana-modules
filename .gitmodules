@@ -181,3 +181,9 @@
 [submodule "mustache"]
 	path = mustache
 	url = git://github.com/laurent22/Kohana-Mustache.git
+[submodule "KOstache-Pagination"]
+	path = KOstache-Pagination
+	url = git://github.com/ThorstenS/KOstache-Pagination.git
+[submodule "encrypt"]
+	path = encrypt
+	url = git://github.com/ThorstenS/Kohana-Encrypt.git
