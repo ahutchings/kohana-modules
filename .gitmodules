@@ -187,3 +187,6 @@
 [submodule "encrypt"]
 	path = encrypt
 	url = git://github.com/ThorstenS/Kohana-Encrypt.git
+[submodule "kohana-fb-sdk"]
+	path = kohana-fb-sdk
+	url = git://github.com/luigi69/kohana-fb-sdk.git
