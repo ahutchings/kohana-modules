@@ -96,7 +96,7 @@
 	url = git://github.com/OpenBuildings/kohana-cli.git
 [submodule "kohana-facebook"]
 	path = kohana-facebook
-	url = git://github.com/bbedwell/kohana-fb.git
+	url = git://github.com/luigi69/kohana-facebook.git
 [submodule "developerbar"]
 	path = developerbar
 	url = git://github.com/marcelorodrigo/developerbar.git
