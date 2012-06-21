@@ -190,3 +190,6 @@
 [submodule "kohana-fb-sdk"]
 	path = kohana-fb-sdk
 	url = git://github.com/luigi69/kohana-fb-sdk.git
+[submodule "kohana-weibo"]
+	path = kohana-weibo
+	url = git@github.com:JeremyWei/kohana-weibo.git
