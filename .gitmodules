@@ -193,3 +193,6 @@
 [submodule "kohana-weibo"]
 	path = kohana-weibo
 	url = git://github.com/JeremyWei/kohana-weibo.git
+[submodule "koredis"]
+	path = koredis
+	url = git://github.com/JeremyWei/koredis.git
