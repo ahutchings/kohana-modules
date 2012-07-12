@@ -45,22 +45,22 @@
 	url = git://github.com/xurumelous/kohana-pt-inflector.git
 [submodule "dataflow"]
 	path = dataflow
-	url = git://github.com/michealmorgan/kohana-dataflow.git
+	url = git://github.com/morgan/kohana-dataflow.git
 [submodule "storage"]
 	path = storage
-	url = git://github.com/michealmorgan/kohana-storage.git
+	url = git://github.com/morgan/kohana-storage.git
 [submodule "restify"]
 	path = restify
-	url = git://github.com/michealmorgan/kohana-restify.git
+	url = git://github.com/morgan/kohana-restify.git
 [submodule "tableau"]
 	path = tableau
 	url = git://github.com/shanesmith/Kohana-Tableau.git
 [submodule "dispatch"]
 	path = dispatch
-	url = git://github.com/michealmorgan/kohana-dispatch.git
+	url = git://github.com/morgan/kohana-dispatch.git
 [submodule "deputy"]
 	path = deputy
-	url = git://github.com/michealmorgan/kohana-deputy.git
+	url = git://github.com/morgan/kohana-deputy.git
 [submodule "pagseguro"]
 	path = pagseguro
 	url = git://github.com/madeinnordeste/kohana-pagseguro.git
@@ -174,10 +174,10 @@
 	url = git://github.com/ferpetrelli/kohana-flexible-migrations.git
 [submodule "paginate"]
 	path = paginate
-	url = git://github.com/michealmorgan/kohana-paginate.git
+	url = git://github.com/morgan/kohana-paginate.git
 [submodule "datatables"]
 	path = datatables
-	url = git://github.com/michealmorgan/kohana-datatables.git
+	url = git://github.com/morgan/kohana-datatables.git
 [submodule "mustache"]
 	path = mustache
 	url = git://github.com/laurent22/Kohana-Mustache.git
