@@ -196,3 +196,6 @@
 [submodule "koredis"]
 	path = koredis
 	url = git://github.com/JeremyWei/koredis.git
+[submodule "orm-cache"]
+	path = orm-cache
+	url = https://github.com/robbytaylor/orm_cache.git
