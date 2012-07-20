@@ -196,3 +196,6 @@
 [submodule "koredis"]
 	path = koredis
 	url = git://github.com/JeremyWei/koredis.git
+[submodule "twitter"]
+	path = twitter
+	url = git://github.com/robbytaylor/kohana-twitter.git
