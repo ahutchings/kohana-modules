@@ -199,3 +199,6 @@
 [submodule "orm-cache"]
 	path = orm-cache
 	url = https://github.com/robbytaylor/orm_cache.git
+[submodule "twitter"]
+	path = twitter
+	url = git://github.com/robbytaylor/kohana-twitter.git
