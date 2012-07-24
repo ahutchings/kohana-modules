@@ -199,3 +199,6 @@
 [submodule "orm-cache"]
 	path = orm-cache
 	url = https://github.com/robbytaylor/orm_cache.git
+[submodule "cache-namespace"]
+	path = cache-namespace
+	url = git://github.com/robbytaylor/cache-namespace.git
