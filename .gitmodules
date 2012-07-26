@@ -202,3 +202,6 @@
 [submodule "twitter"]
 	path = twitter
 	url = git://github.com/robbytaylor/kohana-twitter.git
+[submodule "cache-namespace"]
+	path = cache-namespace
+	url = git://github.com/robbytaylor/cache-namespace.git
