@@ -205,3 +205,6 @@
 [submodule "cache-namespace"]
 	path = cache-namespace
 	url = git://github.com/robbytaylor/cache-namespace.git
+[submodule "email"]
+	path = email
+	url = git://github.com/robbytaylor/email.git
