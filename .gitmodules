@@ -208,3 +208,6 @@
 [submodule "email"]
 	path = email
 	url = git://github.com/robbytaylor/email.git
+[submodule "twilio"]
+	path = twilio
+	url = git://github.com/robbytaylor/kohana-twilio.git
