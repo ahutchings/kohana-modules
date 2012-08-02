@@ -199,3 +199,6 @@
 [submodule "orm-cache"]
 	path = orm-cache
 	url = https://github.com/robbytaylor/orm_cache.git
+[submodule "log-remote"]
+	path = log-remote
+	url = git://github.com/robbytaylor/log-remote.git
