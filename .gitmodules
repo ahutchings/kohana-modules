@@ -115,3 +115,6 @@
 [submodule "commoneer"]
 	path = commoneer
 	url = git://github.com/anroots/kohana-commoneer.git
+[submodule "kohana-diagnostic"]
+	path = kohana-diagnostic
+	url = git://github.com/anroots/kohana-diagnostic.git
