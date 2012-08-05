@@ -214,3 +214,6 @@
 [submodule "kohana-diagnostic"]
 	path = kohana-diagnostic
 	url = git://github.com/anroots/kohana-diagnostic.git
+[submodule "log-remote"]
+	path = log-remote
+	url = git://github.com/robbytaylor/log-remote.git
