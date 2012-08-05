@@ -211,3 +211,6 @@
 [submodule "twilio"]
 	path = twilio
 	url = git://github.com/robbytaylor/kohana-twilio.git
+[submodule "kohana-diagnostic"]
+	path = kohana-diagnostic
+	url = git://github.com/anroots/kohana-diagnostic.git
