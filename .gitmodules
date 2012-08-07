@@ -217,3 +217,12 @@
 [submodule "log-remote"]
 	path = log-remote
 	url = git://github.com/robbytaylor/log-remote.git
+[submodule "KO3-Rest"]
+	path = KO3-Rest
+	url = https://github.com/nichcurtis/KO3-Rest.git
+[submodule "KO3-NoSQL"]
+	path = KO3-NoSQL
+	url = https://github.com/nichcurtis/KO3-NoSQL.git
+[submodule "KO3-Twig"]
+	path = KO3-Twig
+	url = https://github.com/nichcurtis/KO3-Twig
