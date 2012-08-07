@@ -225,4 +225,4 @@
 	url = https://github.com/nichcurtis/KO3-NoSQL.git
 [submodule "KO3-Twig"]
 	path = KO3-Twig
-	url = https://github.com/nichcurtis/KO3-Twig
+	url = https://github.com/nichcurtis/KO3-Twig.git
