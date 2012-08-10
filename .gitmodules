@@ -226,3 +226,6 @@
 [submodule "KO3-Twig"]
 	path = KO3-Twig
 	url = https://github.com/nichcurtis/KO3-Twig.git
+[submodule "senderscore"]
+	path = senderscore
+	url = https://github.com/epicheals/senderscore.git
