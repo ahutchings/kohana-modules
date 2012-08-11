@@ -229,6 +229,3 @@
 [submodule "senderscore"]
 	path = senderscore
 	url = https://github.com/epicheals/senderscore.git
-[submodule "msn-kohana"]
-	path = senderscore
-	url = https://github.com/pocesar/msn-kohana.git
