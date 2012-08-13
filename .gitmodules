@@ -1,6 +1,3 @@
-[submodule "Twootstrap"]
-	path = Twootstrap
-	url = git://github.com/CreativityKills/Twootstrap.git
 [submodule "unittest"]
 	path = unittest
 	url = git://github.com/kohana/unittest.git
@@ -235,3 +232,6 @@
 [submodule "msn-kohana"]
 	path = msn-kohana
 	url = git://github.com/pocesar/msn-kohana.git
+[submodule "Twootstrap"]
+	path = Twootstrap
+	url = git://github.com/CreativityKills/Twootstrap.git
