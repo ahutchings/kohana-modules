@@ -232,3 +232,6 @@
 [submodule "msn-kohana"]
 	path = msn-kohana
 	url = git://github.com/pocesar/msn-kohana.git
+[submodule "kohana-powerdns"]
+	path = kohana-powerdns
+	url = git://github.com/southern-hu/kohana-powerdns.git
