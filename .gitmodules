@@ -235,3 +235,6 @@
 [submodule "Twootstrap"]
 	path = Twootstrap
 	url = https://github.com/CreativityKills/Twootstrap.git
+[submodule "honeypot"]
+	path = honeypot
+	url = git://github.com/CreativityKills/honeypot.git
