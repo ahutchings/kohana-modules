@@ -232,3 +232,9 @@
 [submodule "msn-kohana"]
 	path = msn-kohana
 	url = git://github.com/pocesar/msn-kohana.git
+[submodule "honeypot"]
+	path = honeypot
+	url = git://github.com/CreativityKills/honeypot.git
+[submodule "Twootstrap"]
+	path = Twootstrap
+	url = git://github.com/CreativityKills/Twootstrap.git
