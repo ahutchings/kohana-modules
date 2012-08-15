@@ -235,3 +235,9 @@
 [submodule "kohana-powerdns"]
 	path = kohana-powerdns
 	url = git://github.com/southern-hu/kohana-powerdns.git
+[submodule "honeypot"]
+	path = honeypot
+	url = git://github.com/CreativityKills/honeypot.git
+[submodule "Twootstrap"]
+	path = Twootstrap
+	url = git://github.com/CreativityKills/Twootstrap.git
