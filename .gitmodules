@@ -241,3 +241,6 @@
 [submodule "Twootstrap"]
 	path = Twootstrap
 	url = git://github.com/CreativityKills/Twootstrap.git
+[submodule "kohana-threads"]
+	path = kohana-threads
+	url = https://github.com/epicheals/kohana-threads
