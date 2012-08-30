@@ -244,3 +244,6 @@
 [submodule "kohana-threads"]
 	path = kohana-threads
 	url = https://github.com/epicheals/kohana-threads.git
+[submodule "minify-kohana"]
+	path = minify-kohana
+	url = git://github.com/pocesar/minify-kohana.git
