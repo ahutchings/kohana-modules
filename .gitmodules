@@ -247,3 +247,6 @@
 [submodule "minify-kohana"]
 	path = minify-kohana
 	url = git://github.com/pocesar/minify-kohana.git
+[submodule "multilanguage"]
+	path = multilanguage
+	url = git://github.com/mrJakez/kohana-multilanguage.git
