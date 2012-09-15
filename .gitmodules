@@ -268,3 +268,6 @@
 [submodule "nexeck-errors"]
 	path = nexeck-errors
 	url = git://github.com/nexeck/kohana-errors.git
+[submodule "nexeck-twig"]
+	path = nexeck-twig
+	url = git://github.com/nexeck/kohana-twig.git
