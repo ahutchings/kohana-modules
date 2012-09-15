@@ -265,3 +265,6 @@
 [submodule "nexeck-mattach"]
 	path = nexeck-mattach
 	url = git://github.com/nexeck/kohana-mattach.git
+[submodule "nexeck-errors"]
+	path = nexeck-errors
+	url = git://github.com/nexeck/kohana-errors.git
