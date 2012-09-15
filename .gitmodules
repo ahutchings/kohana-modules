@@ -262,3 +262,6 @@
 [submodule "nexeck-pagination"]
 	path = nexeck-pagination
 	url = git://github.com/nexeck/kohana-pagination.git
+[submodule "nexeck-mattach"]
+	path = nexeck-mattach
+	url = git://github.com/nexeck/kohana-mattach.git
