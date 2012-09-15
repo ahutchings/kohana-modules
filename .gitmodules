@@ -250,3 +250,15 @@
 [submodule "multilanguage"]
 	path = multilanguage
 	url = git://github.com/mrJakez/kohana-multilanguage.git
+[submodule "nexeck-alert"]
+	path = nexeck-alert
+	url = git://github.com/nexeck/kohana-alert.git
+[submodule "nexeck-debugger"]
+	path = nexeck-debugger
+	url = git://github.com/nexeck/kohana-debugger.git
+[submodule "nexeck-menu"]
+	path = nexeck-menu
+	url = git://github.com/nexeck/kohana-menu.git
+[submodule "nexeck-pagination"]
+	path = nexeck-pagination
+	url = git://github.com/nexeck/kohana-pagination.git
