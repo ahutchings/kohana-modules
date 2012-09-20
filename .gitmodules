@@ -274,3 +274,6 @@
 [submodule "minion-daemon"]
 	path = minion-daemon
 	url = git://github.com/awbn/minion-daemon.git
+[submodule "minion-log"]
+	path = minion-log
+	url = git://github.com/awbn/minion-log.git
