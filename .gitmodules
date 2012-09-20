@@ -271,3 +271,6 @@
 [submodule "nexeck-twig"]
 	path = nexeck-twig
 	url = git://github.com/nexeck/kohana-twig.git
+[submodule "minion-daemon"]
+	path = minion-daemon
+	url = git://github.com/awbn/minion-daemon.git
