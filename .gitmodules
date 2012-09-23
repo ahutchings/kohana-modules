@@ -249,7 +249,7 @@
 	url = git://github.com/pocesar/minify-kohana.git
 [submodule "multilanguage"]
 	path = multilanguage
-	url = git://github.com/mrJakez/kohana-multilanguage.git
+	url = git://github.com/mrJakez/kohana-ormt.git
 [submodule "nexeck-alert"]
 	path = nexeck-alert
 	url = git://github.com/nexeck/kohana-alert.git
