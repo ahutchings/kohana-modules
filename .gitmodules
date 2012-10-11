@@ -277,3 +277,6 @@
 [submodule "minion-log"]
 	path = minion-log
 	url = git://github.com/awbn/minion-log.git
+[submodule "tasks-assets"]
+	path = tasks-assets
+	url = git://github.com/iGore/tasks-assets.git
