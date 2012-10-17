@@ -280,3 +280,7 @@
 [submodule "tasks-assets"]
 	path = tasks-assets
 	url = git://github.com/iGore/tasks-assets.git
+[submodule "kohana-config.ini"]
+	path = kohana-config.ini
+	url = git://github.com/jengo/kohana-config.ini
+
