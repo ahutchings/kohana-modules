@@ -284,3 +284,6 @@
 	path = kohana-config.ini
 	url = git://github.com/jengo/kohana-config.ini
 
+[submodule "kohana-mikrotik"]
+	path = kohana-mikrotik
+	url = https://github.com/betamonster/kohana-mikrotik.git
