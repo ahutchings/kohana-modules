@@ -460,3 +460,6 @@
 [submodule "transactional"]
 	path = transactional
 	url = git://github.com/brazzy/kohana-transactional.git
+[submodule "mongodb-php-odm"]
+	path = mongodb-php-odm
+	url = git://github.com/colinmollenhour/mongodb-php-odm.git
