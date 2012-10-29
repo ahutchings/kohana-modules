@@ -25,3 +25,6 @@
 [submodule "minion"]
 	path = minion
 	url = git://github.com/kohana/minion.git
+[submodule "komust"]
+	path = komust
+	url = https://github.com/m1lt0n/Komust.git
