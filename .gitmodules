@@ -28,3 +28,6 @@
 [submodule "komust"]
 	path = komust
 	url = https://github.com/m1lt0n/Komust.git
+[submodule "swift"]
+	path = swift
+	url = https://github.com/m1lt0n/Swift.git
