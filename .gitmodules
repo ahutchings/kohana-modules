@@ -31,3 +31,6 @@
 [submodule "swift"]
 	path = swift
 	url = https://github.com/m1lt0n/Swift.git
+[submodule "compress"]
+	path = compress
+	url = git://github.com/azampagl/kohana-compress.git
