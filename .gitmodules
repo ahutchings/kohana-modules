@@ -34,3 +34,6 @@
 [submodule "compress"]
 	path = compress
 	url = git://github.com/azampagl/kohana-compress.git
+[submodule "youtube-video"]
+	path = youtube-video
+	url = git://github.com/wwebfor/youtube-video.git
