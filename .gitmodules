@@ -37,3 +37,6 @@
 [submodule "youtube-video"]
 	path = youtube-video
 	url = git://github.com/wwebfor/youtube-video.git
+[submodule "dataflow"]
+	path = dataflow
+	url = git://github.com/morgan/kohana-dataflow.git
