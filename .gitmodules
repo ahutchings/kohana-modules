@@ -40,3 +40,6 @@
 [submodule "deputy"]
 	path = deputy
 	url = git://github.com/morgan/kohana-deputy.git
+[submodule "dataflow"]
+	path = dataflow
+	url = git://github.com/morgan/kohana-dataflow.git
