@@ -40,3 +40,9 @@
 [submodule "dataflow"]
 	path = dataflow
 	url = git://github.com/morgan/kohana-dataflow.git
+[submodule "dispatch"]
+	path = dispatch
+	url = git://github.com/morgan/kohana-dispatch.git
+[submodule "orm-rest"]
+	path = orm-rest
+	url = git://github.com/morgan/kohana-orm-rest.git
