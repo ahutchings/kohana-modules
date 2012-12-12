@@ -49,3 +49,9 @@
 [submodule "orm-rest"]
 	path = orm-rest
 	url = git://github.com/morgan/kohana-orm-rest.git
+[submodule "paginate"]
+	path = paginate
+	url = git://github.com/morgan/kohana-paginate.git
+[submodule "datatables"]
+	path = datatables
+	url = git://github.com/morgan/kohana-datatables.git
