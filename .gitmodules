@@ -52,3 +52,6 @@
 [submodule "datatables"]
 	path = datatables
 	url = git://github.com/morgan/kohana-datatables.git
+[submodule "restify"]
+	path = restify
+	url = git://github.com/morgan/kohana-restify.git
