@@ -58,3 +58,6 @@
 [submodule "restify"]
 	path = restify
 	url = git://github.com/morgan/kohana-restify.git
+[submodule "db-acl"]
+	path = db-acl
+	url = git://github.com/anroots/kohana-db-acl.git
