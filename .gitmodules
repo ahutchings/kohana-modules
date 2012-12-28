@@ -61,3 +61,6 @@
 [submodule "db-acl"]
 	path = db-acl
 	url = git://github.com/anroots/kohana-db-acl.git
+[submodule "menu"]
+	path = menu
+	url = git://github.com/anroots/kohana-menu.git
