@@ -55,3 +55,6 @@
 [submodule "restify"]
 	path = restify
 	url = git://github.com/morgan/kohana-restify.git
+[submodule "storage"]
+	path = storage
+	url = git://github.com/morgan/kohana-storage.git
