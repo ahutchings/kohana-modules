@@ -64,3 +64,6 @@
 [submodule "menu"]
 	path = menu
 	url = git://github.com/anroots/kohana-menu.git
+[submodule "storage"]
+	path = storage
+	url = git://github.com/morgan/kohana-storage.git
