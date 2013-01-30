@@ -67,3 +67,6 @@
 [submodule "storage"]
 	path = storage
 	url = git://github.com/morgan/kohana-storage.git
+[submodule "mpdf"]
+	path = mpdf
+	url = git@github.com:seyfer/mpdf.git
