@@ -292,3 +292,6 @@
 [submodule "orm-rest"]
 	path = orm-rest
 	url = git://github.com/morgan/kohana-orm-rest.git
+[submodule "mpdf"]
+	path = mpdf
+	url = git@github.com:seyfer/mpdf.git
