@@ -67,3 +67,6 @@
 [submodule "storage"]
 	path = storage
 	url = git://github.com/morgan/kohana-storage.git
+[submodule "transactional"]
+	path = transactional
+	url = git://github.com/brazzy/kohana-transactional.git
