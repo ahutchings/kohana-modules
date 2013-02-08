@@ -292,3 +292,6 @@
 [submodule "orm-rest"]
 	path = orm-rest
 	url = git://github.com/morgan/kohana-orm-rest.git
+[submodule "kohana-apn"]
+	path = kohana-apn
+	url = git://github.com/avgs/kohana-apn.git
