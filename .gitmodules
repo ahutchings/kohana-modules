@@ -73,3 +73,6 @@
 [submodule "dataTable"]
 	path = dataTable
 	url = git://github.com/happyDemon/dataTable.git
+[submodule "minion-importer"]
+	path = minion-importer
+	url = https://github.com/anroots/kohana-minion-importer.git
