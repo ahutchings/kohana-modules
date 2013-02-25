@@ -1237,3 +1237,6 @@
 [submodule "partials"]
 	path = partials
 	url = git://github.com/gevans/kohana-partials.git
+[submodule "flexible-migrations"]
+	path = flexible-migrations
+	url = git@github.com:ferpetrelli/kohana-flexible-migrations.git
