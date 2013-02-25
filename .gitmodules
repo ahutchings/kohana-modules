@@ -463,3 +463,6 @@
 [submodule "mongodb-php-odm"]
 	path = mongodb-php-odm
 	url = git://github.com/colinmollenhour/mongodb-php-odm.git
+[submodule "flexible-migrations"]
+	path = flexible-migrations
+	url = git@github.com:ferpetrelli/kohana-flexible-migrations.git
