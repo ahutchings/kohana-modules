@@ -78,4 +78,4 @@
 	url = https://github.com/anroots/kohana-minion-importer.git
 [submodule "flexible-migrations"]
 	path = flexible-migrations
-	url = git@github.com:ferpetrelli/kohana-flexible-migrations.git
+	url = git://github.com/ferpetrelli/kohana-flexible-migrations.git
