@@ -37,9 +37,6 @@
 [submodule "haml"]
 	path = haml
 	url = git://github.com/d4rky-pl/kohana3-haml.git
-[submodule "yamlDemon"]
-	path = yamlDemon
-	url = git://github.com/happyDemon/yamlDemon.git
 [submodule "pt-inflector"]
 	path = pt-inflector
 	url = git://github.com/xurumelous/kohana-pt-inflector.git
@@ -79,15 +76,9 @@
 [submodule "Kohana-StatsD"]
 	path = Kohana-StatsD
 	url = git://github.com/ernestas/Kohana-StatsD.git
-[submodule "jelly-upload"]
-	path = jelly-upload
-	url = git://github.com/OpenBuildings/jelly-upload.git
 [submodule "timestamped-migrations"]
 	path = timestamped-migrations
 	url = git://github.com/OpenBuildings/timestamped-migrations.git
-[submodule "form-builder"]
-	path = form-builder
-	url = git://github.com/OpenBuildings/form-builder.git
 [submodule "asset-merger"]
 	path = asset-merger
 	url = git://github.com/OpenBuildings/asset-merger.git
@@ -181,9 +172,6 @@
 [submodule "mustache"]
 	path = mustache
 	url = git://github.com/laurent22/Kohana-Mustache.git
-[submodule "KOstache-Pagination"]
-	path = KOstache-Pagination
-	url = git://github.com/ThorstenS/KOstache-Pagination.git
 [submodule "encrypt"]
 	path = encrypt
 	url = git://github.com/ThorstenS/Kohana-Encrypt.git
