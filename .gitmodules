@@ -82,3 +82,6 @@
 [submodule "kohana-captcha"]
 	path = kohana-captcha
 	url = git@github.com:bistory/kohana-captcha.git
+[submodule "kohana-twig"]
+	path = kohana-twig
+	url = git@github.com:bistory/kohana-twig.git
