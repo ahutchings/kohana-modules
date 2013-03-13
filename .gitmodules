@@ -46,9 +46,6 @@
 [submodule "gmaps"]
 	path = gmaps
 	url = git://github.com/iloveitaly/GMaps-Kohana.git
-[submodule "active-resource"]
-	path = active-resource
-	url = git://github.com/transphorm/active-resource-for-kohana.git
 [submodule "files"]
 	path = files
 	url = git://github.com/drhevans/kohana-module--files.git
