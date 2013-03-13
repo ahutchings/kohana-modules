@@ -154,9 +154,6 @@
 [submodule "airbrake"]
 	path = airbrake
 	url = git://github.com/gevans/kohana-airbrake.git
-[submodule "canvas-auth"]
-	path = canvas-auth
-	url = git://github.com/henrycanvas/canvas-auth.git
 [submodule "raven"]
 	path = raven
 	url = git://github.com/tony/kohana-raven.git
