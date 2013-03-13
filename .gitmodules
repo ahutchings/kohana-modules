@@ -403,9 +403,6 @@
 [submodule "blog"]
 	path = blog
 	url = git://github.com/vimofthevine/kohana-blog.git
-[submodule "dbmanager"]
-	path = dbmanager
-	url = git://github.com/icyleaf/dbmanager.git
 [submodule "postgresql"]
 	path = postgresql
 	url = git://github.com/cbandy/kohana-postgresql.git
@@ -427,15 +424,9 @@
 [submodule "fbapi"]
 	path = fbapi
 	url = git://github.com/ryross/fbapi.git
-[submodule "douban"]
-	path = douban
-	url = git://github.com/icyleaf/douban.git
 [submodule "cheatsheet"]
 	path = cheatsheet
 	url = git://github.com/AlexKupreev/kohana-cheatsheet.git
-[submodule "convert"]
-	path = convert
-	url = git://github.com/transphorm/convert.git
 [submodule "devtools"]
 	path = devtools
 	url = git://github.com/bluehawk/devtools.git
@@ -556,9 +547,6 @@
 [submodule "migrations"]
 	path = migrations
 	url = git://github.com/jmhobbs/kohana-3-migrations.git
-[submodule "ed_admin"]
-	path = ed_admin
-	url = git://github.com/smgladkovskiy/ed_admin.git
 [submodule "twitteroauth"]
 	path = twitteroauth
 	url = git://github.com/antpaw/kohana_twitteroauth.git
@@ -748,18 +736,12 @@
 [submodule "runlive"]
 	path = runlive
 	url = git://github.com/RunLive/runlive.git
-[submodule "backend"]
-	path = backend
-	url = git://github.com/xcopy/backend.git
 [submodule "jelly-rauth"]
 	path = jelly-rauth
 	url = git://github.com/AlexKupreev/jelly-rauth.git
 [submodule "falcon"]
 	path = falcon
 	url = git://github.com/daveWid/falcon.git
-[submodule "authenticate"]
-	path = authenticate
-	url = git://github.com/daveWid/authenticate.git
 [submodule "flickr"]
 	path = flickr
 	url = git://github.com/jeanmask/flickr.git
@@ -964,9 +946,6 @@
 [submodule "recaptcha"]
 	path = recaptcha
 	url = git://github.com/TimothyA/kohana-recaptcha.git
-[submodule "acl3"]
-	path = acl3
-	url = git://github.com/mintbridge/ACL.git
 [submodule "simplemigrations"]
 	path = simplemigrations
 	url = git://github.com/Xobb/simplemigrations.git
