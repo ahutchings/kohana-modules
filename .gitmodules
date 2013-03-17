@@ -88,3 +88,6 @@
 [submodule "kohana-twig"]
 	path = kohana-twig
 	url = git://github.com/bistory/kohana-twig.git
+[submodule "generator"]
+	path = generator
+	url = git://github.com/zeebinz/kohana-generator.git
