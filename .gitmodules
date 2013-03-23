@@ -91,3 +91,6 @@
 [submodule "generator"]
 	path = generator
 	url = git://github.com/zeebinz/kohana-generator.git
+[submodule "compact"]
+	path = compact
+	url = git://github.com/Choufourax/kohana-compact.git
