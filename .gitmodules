@@ -94,3 +94,6 @@
 [submodule "compact"]
 	path = compact
 	url = git://github.com/Choufourax/kohana-compact.git
+[submodule "kohana-settings"]
+	path = kohana-settings
+	url = git://github.com/Cyntax/Kohana-Settings.git
