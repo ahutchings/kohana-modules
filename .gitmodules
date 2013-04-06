@@ -99,7 +99,7 @@
 	url = git://github.com/Cyntax/Kohana-Settings.git
 [submodule "minify"]
 	path = minify-kohana
-	url = git@github.com:pocesar/minify-kohana.git
+	url = git://github.com/pocesar/minify-kohana.git
 [submodule "phery-kohana"]
 	path = phery-kohana
-	url = git@github.com:pocesar/phery-kohana.git
+	url = git://github.com/pocesar/phery-kohana.git
