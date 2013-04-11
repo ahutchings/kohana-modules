@@ -103,3 +103,6 @@
 [submodule "phery-kohana"]
 	path = phery-kohana
 	url = git://github.com/pocesar/phery-kohana.git
+[submodule "subdomain"]
+	path = subdomain
+	url = git://github.com/jeanmask/subdomain.git
