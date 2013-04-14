@@ -466,3 +466,15 @@
 [submodule "flexible-migrations"]
 	path = flexible-migrations
 	url = git://github.com/ferpetrelli/kohana-flexible-migrations.git
+[submodule "session-msg"]
+	path = session-msg
+	url = git://github.com/peter-story/kohana-session_msg.git
+[submodule "auth-ldap"]
+	path = auth-ldap
+	url = git://github.com/peter-story/kohana-auth_ldap.git
+[submodule "shipping-ws"]
+	path = shipping-ws
+	url = git://github.com/peter-story/kohana-shipping_ws.git
+[submodule "sailthru"]
+	path = sailthru
+	url = git://github.com/peter-story/kohana-sailthru.git
