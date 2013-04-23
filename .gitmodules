@@ -106,3 +106,6 @@
 [submodule "subdomain"]
 	path = subdomain
 	url = git://github.com/jeanmask/subdomain.git
+[submodule "mustache"]
+	path = mustache
+	url = https://github.com/laurent22/Kohana-Mustache.git
