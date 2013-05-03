@@ -112,3 +112,6 @@
 [submodule "ckeditor"]
 	path = ckeditor
 	url = git://github.com/sfagnum/Kohana-CKEditor.git
+[submodule "hashids-kohana"]
+	path = hashids-kohana
+	url = git://github.com/pocesar/hashids-kohana.git
