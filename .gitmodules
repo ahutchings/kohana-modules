@@ -117,4 +117,4 @@
 	url = git://github.com/pocesar/hashids-kohana.git
 [submodule "facebook-kohana"]
 	path = facebook-kohana
-	url = git@github.com:pocesar/facebook-kohana.git
+	url = git://github.com/pocesar/facebook-kohana.git
