@@ -118,3 +118,6 @@
 [submodule "facebook-kohana"]
 	path = facebook-kohana
 	url = git://github.com/pocesar/facebook-kohana.git
+[submodule "twitter-kohana"]
+	path = twitter-kohana
+	url = git://github.com/pocesar/twitter-kohana.git
