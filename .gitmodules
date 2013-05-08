@@ -283,3 +283,6 @@
 [submodule "mpdf"]
 	path = mpdf
 	url = git://github.com/seyfer/mpdf.git
+[submodule "breadcrumbs"]
+	path = breadcrumbs
+	url = git://github.com/seyfer/breadcrumbs.git
