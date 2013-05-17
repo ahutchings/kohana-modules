@@ -286,3 +286,6 @@
 [submodule "breadcrumbs"]
 	path = breadcrumbs
 	url = git://github.com/seyfer/breadcrumbs.git
+[submodule "gleez"]
+	path = gleez
+	url  = https://github.com/gleez/cms.git
