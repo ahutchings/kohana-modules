@@ -244,3 +244,6 @@
 [submodule "kohana-threads"]
 	path = kohana-threads
 	url = https://github.com/epicheals/kohana-threads.git
+[submodule "gleez"]
+	path = gleez
+	url  = https://github.com/gleez/cms.git
