@@ -121,3 +121,6 @@
 [submodule "twitter-kohana"]
 	path = twitter-kohana
 	url = git://github.com/pocesar/twitter-kohana.git
+[submodule "elements"]
+	path = elements
+	url = git://github.com/happyDemon/elements.git
