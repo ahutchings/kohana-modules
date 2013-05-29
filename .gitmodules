@@ -124,3 +124,6 @@
 [submodule "elements"]
 	path = elements
 	url = git://github.com/happyDemon/elements.git
+[submodule "googleapi-kohana"]
+	path = googleapi-kohana
+	url = git@github.com:pocesar/googleapi-kohana.git
