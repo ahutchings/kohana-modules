@@ -124,3 +124,6 @@
 [submodule "elements"]
 	path = elements
 	url = git://github.com/happyDemon/elements.git
+[submodule "arr"]
+	path = arr
+	url = git://github.com/happyDemon/arr.git
