@@ -127,3 +127,6 @@
 [submodule "arr"]
 	path = arr
 	url = git://github.com/happyDemon/arr.git
+[submodule "googleapi-kohana"]
+	path = googleapi-kohana
+	url = git://github.com/pocesar/googleapi-kohana.git
