@@ -130,3 +130,6 @@
 [submodule "googleapi-kohana"]
 	path = googleapi-kohana
 	url = git://github.com/pocesar/googleapi-kohana.git
+[submodule "layout"]
+	path = layout
+	url = https://github.com/gianebao/layout.git
