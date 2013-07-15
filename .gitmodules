@@ -133,3 +133,9 @@
 [submodule "layout"]
 	path = layout
 	url = https://github.com/gianebao/layout.git
+[submodule "log-reader"]
+	path = log-reader
+	url = https://github.com/WinterSilence/log-reader.git
+[submodule "shopping-cart"]
+	path = shopping-cart
+	url = https://github.com/WinterSilence/shopping-cart.git
