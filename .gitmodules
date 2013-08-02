@@ -139,3 +139,6 @@
 [submodule "shopping-cart"]
 	path = shopping-cart
 	url = https://github.com/WinterSilence/shopping-cart.git
+[submodule "plugins"]
+	path = plugins
+	url    = https://github.com/Vheissu/Kohana-Plugin-System.git
