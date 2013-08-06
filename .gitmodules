@@ -145,3 +145,6 @@
 [submodule "req"]
 	path = req
 	url = git://github.com/happyDemon/req.git
+[submodule "s4k"]
+	path = s4k
+	url = git://github.com/happyDemon/s4k.git
