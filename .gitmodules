@@ -139,6 +139,9 @@
 [submodule "shopping-cart"]
 	path = shopping-cart
 	url = https://github.com/WinterSilence/shopping-cart.git
-[submodule "kohana-message"]
-	path = kohana-message
+[submodule "message"]
+	path = message
 	url = git@github.com:WinterSilence/kohana-message.git
+[submodule "gravatar"]
+	path = gravatar
+	url = git@github.com:WinterSilence/kohana-gravatar.git
