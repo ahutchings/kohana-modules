@@ -148,3 +148,6 @@
 [submodule "s4k"]
 	path = s4k
 	url = git://github.com/happyDemon/s4k.git
+[submodule "restful-api"]
+	path = restful-api
+	url = git://github.com/SupersonicAds/kohana-restful-api.git
