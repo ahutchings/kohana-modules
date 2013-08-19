@@ -151,3 +151,6 @@
 [submodule "restful-api"]
 	path = restful-api
 	url = git://github.com/SupersonicAds/kohana-restful-api.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/Vheissu/Kohana-Plugin-System.git
