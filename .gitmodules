@@ -154,3 +154,9 @@
 [submodule "plugins"]
 	path = plugins
 	url = https://github.com/Vheissu/Kohana-Plugin-System.git
+[submodule "message"]
+	path = message
+	url = https://github.com/WinterSilence/kohana-message.git
+[submodule "gravatar"]
+	path = gravatar
+	url = https://github.com/WinterSilence/kohana-gravatar.git
