@@ -139,9 +139,24 @@
 [submodule "shopping-cart"]
 	path = shopping-cart
 	url = https://github.com/WinterSilence/shopping-cart.git
+[submodule "txt"]
+	path = txt
+	url = git://github.com/happyDemon/txt.git
+[submodule "req"]
+	path = req
+	url = git://github.com/happyDemon/req.git
+[submodule "s4k"]
+	path = s4k
+	url = git://github.com/happyDemon/s4k.git
+[submodule "restful-api"]
+	path = restful-api
+	url = git://github.com/SupersonicAds/kohana-restful-api.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/Vheissu/Kohana-Plugin-System.git
 [submodule "message"]
 	path = message
-	url = git@github.com:WinterSilence/kohana-message.git
+	url = https://github.com/WinterSilence/kohana-message.git
 [submodule "gravatar"]
 	path = gravatar
-	url = git@github.com:WinterSilence/kohana-gravatar.git
+	url = https://github.com/WinterSilence/kohana-gravatar.git
