@@ -160,3 +160,6 @@
 [submodule "gravatar"]
 	path = gravatar
 	url = https://github.com/WinterSilence/kohana-gravatar.git
+[submodule "translation"]
+	path = translation
+	url = git://github.com/WinterSilence/kohana-translation.git
