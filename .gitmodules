@@ -289,3 +289,6 @@
 [submodule "gleez"]
 	path = gleez
 	url  = https://github.com/gleez/cms.git
+[submodule "aurora"]
+	path = aurora
+	url = git://github.com/enov/Aurora
