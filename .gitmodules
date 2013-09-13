@@ -163,3 +163,6 @@
 [submodule "translation"]
 	path = translation
 	url = git://github.com/WinterSilence/kohana-translation.git
+[submodule "breadcrumbs"]
+	path = breadcrumbs
+	url = git://github.com/WinterSilence/kohana-breadcrumbs.git
