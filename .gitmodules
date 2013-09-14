@@ -166,3 +166,6 @@
 [submodule "quill"]
 	path = quill
 	url = git://github.com/happyDemon/quill.git
+[submodule "breadcrumbs"]
+	path = breadcrumbs
+	url = git://github.com/WinterSilence/kohana-breadcrumbs.git
