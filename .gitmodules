@@ -169,3 +169,6 @@
 [submodule "breadcrumbs"]
 	path = breadcrumbs
 	url = git://github.com/WinterSilence/kohana-breadcrumbs.git
+[submodule "kohana-composer-bootstrap"]
+	path = kohana-composer-bootstrap
+	url = git://github.com/happyDemon/kohana-composer-bootstrap.git
