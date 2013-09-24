@@ -169,3 +169,6 @@
 [submodule "breadcrumbs"]
 	path = breadcrumbs
 	url = git://github.com/WinterSilence/kohana-breadcrumbs.git
+[submodule "kopauth"]
+	path = kopauth
+	url = git://github.com/Bodom78/kohana-modules.git
