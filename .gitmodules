@@ -171,4 +171,4 @@
 	url = git://github.com/WinterSilence/kohana-breadcrumbs.git
 [submodule "kopauth"]
 	path = kopauth
-	url = git://github.com/Bodom78/kohana-modules.git
+	url = git://github.com/Bodom78/kohana-kopauth.git
