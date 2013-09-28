@@ -175,3 +175,6 @@
 [submodule "datalog"]
 	path = datalog
 	url = https://github.com/samwilson/kohana_datalog.git
+[submodule "jade"]
+	path = jade
+	url = https://github.com/pocesar/jade-kohana.git
