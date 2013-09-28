@@ -178,3 +178,6 @@
 [submodule "jade"]
 	path = jade
 	url = https://github.com/pocesar/jade-kohana.git
+[submodule "log-icq"]
+	path = log-icq
+	url = git://github.com/WinterSilence/kohana-log-icq
