@@ -163,6 +163,18 @@
 [submodule "translation"]
 	path = translation
 	url = git://github.com/WinterSilence/kohana-translation.git
+[submodule "quill"]
+	path = quill
+	url = git://github.com/happyDemon/quill.git
 [submodule "breadcrumbs"]
 	path = breadcrumbs
 	url = git://github.com/WinterSilence/kohana-breadcrumbs.git
+[submodule "kopauth"]
+	path = kopauth
+	url = git://github.com/Bodom78/kohana-kopauth.git
+[submodule "datalog"]
+	path = datalog
+	url = https://github.com/samwilson/kohana_datalog.git
+[submodule "jade"]
+	path = jade
+	url = https://github.com/pocesar/jade-kohana.git
