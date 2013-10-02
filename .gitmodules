@@ -121,3 +121,60 @@
 [submodule "twitter-kohana"]
 	path = twitter-kohana
 	url = git://github.com/pocesar/twitter-kohana.git
+[submodule "elements"]
+	path = elements
+	url = git://github.com/happyDemon/elements.git
+[submodule "arr"]
+	path = arr
+	url = git://github.com/happyDemon/arr.git
+[submodule "googleapi-kohana"]
+	path = googleapi-kohana
+	url = git://github.com/pocesar/googleapi-kohana.git
+[submodule "layout"]
+	path = layout
+	url = https://github.com/gianebao/layout.git
+[submodule "log-reader"]
+	path = log-reader
+	url = https://github.com/WinterSilence/log-reader.git
+[submodule "shopping-cart"]
+	path = shopping-cart
+	url = https://github.com/WinterSilence/shopping-cart.git
+[submodule "txt"]
+	path = txt
+	url = git://github.com/happyDemon/txt.git
+[submodule "req"]
+	path = req
+	url = git://github.com/happyDemon/req.git
+[submodule "s4k"]
+	path = s4k
+	url = git://github.com/happyDemon/s4k.git
+[submodule "restful-api"]
+	path = restful-api
+	url = git://github.com/SupersonicAds/kohana-restful-api.git
+[submodule "plugins"]
+	path = plugins
+	url = https://github.com/Vheissu/Kohana-Plugin-System.git
+[submodule "message"]
+	path = message
+	url = https://github.com/WinterSilence/kohana-message.git
+[submodule "gravatar"]
+	path = gravatar
+	url = https://github.com/WinterSilence/kohana-gravatar.git
+[submodule "translation"]
+	path = translation
+	url = git://github.com/WinterSilence/kohana-translation.git
+[submodule "quill"]
+	path = quill
+	url = git://github.com/happyDemon/quill.git
+[submodule "breadcrumbs"]
+	path = breadcrumbs
+	url = git://github.com/WinterSilence/kohana-breadcrumbs.git
+[submodule "kopauth"]
+	path = kopauth
+	url = git://github.com/Bodom78/kohana-kopauth.git
+[submodule "datalog"]
+	path = datalog
+	url = https://github.com/samwilson/kohana_datalog.git
+[submodule "jade"]
+	path = jade
+	url = https://github.com/pocesar/jade-kohana.git
