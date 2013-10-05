@@ -172,3 +172,6 @@
 [submodule "kopauth"]
 	path = kopauth
 	url = git://github.com/Bodom78/kohana-kopauth.git
+[submodule "imagefly"]
+	path = imagefly
+	url = git://github.com/Bodom78/kohana-imagefly.git
