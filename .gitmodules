@@ -181,3 +181,6 @@
 [submodule "alphamail"]
 	path = alphamail
 	url = https://github.com/colkito/kohana-alphamail.git
+[submodule "log-icq"]
+	path = log-icq
+	url = git://github.com/WinterSilence/kohana-log-icq.git
