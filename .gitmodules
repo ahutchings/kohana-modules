@@ -184,3 +184,6 @@
 [submodule "log-icq"]
 	path = log-icq
 	url = git://github.com/WinterSilence/kohana-log-icq.git
+[submodule "imagefly"]
+	path = imagefly
+	url = git://github.com/Bodom78/kohana-imagefly.git
