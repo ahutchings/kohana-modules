@@ -178,3 +178,6 @@
 [submodule "jade"]
 	path = jade
 	url = https://github.com/pocesar/jade-kohana.git
+[submodule "alphamail"]
+	path = alphamail
+	url = https://github.com/colkito/kohana-alphamail.git
