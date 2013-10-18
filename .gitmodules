@@ -187,3 +187,6 @@
 [submodule "imagefly"]
 	path = imagefly
 	url = git://github.com/Bodom78/kohana-imagefly.git
+[submodule "log-writer-db"]
+	path = log-writer-db
+	url = git://github.com/Manc/kohana-log-database.git
