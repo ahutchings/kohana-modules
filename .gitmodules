@@ -181,3 +181,6 @@
 [submodule "log-icq"]
 	path = log-icq
 	url = git://github.com/WinterSilence/kohana-log-icq
+[submodule "meta-tags"]
+	path = meta-tags
+	url = git://github.com/WinterSilence/kohana-meta-tags
