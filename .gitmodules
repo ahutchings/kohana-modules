@@ -192,4 +192,4 @@
 	url = git://github.com/Manc/kohana-log-database.git
 [submodule "meta-tags"]
 	path = meta-tags
-	url = git://github.com/WinterSilence/kohana-meta-tags
+	url = git://github.com/WinterSilence/kohana-meta-tags.git
