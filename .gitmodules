@@ -195,4 +195,4 @@
 	url = git://github.com/WinterSilence/kohana-meta-tags.git
 [submodule "oauth2"]
 	path = oauth2
-	url = git@github.com:paptamas/kohana-oauth2.git
+	url = https://github.com/paptamas/kohana-oauth2.git
