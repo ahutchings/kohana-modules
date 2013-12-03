@@ -196,3 +196,6 @@
 [submodule "oauth2"]
 	path = oauth2
 	url = https://github.com/paptamas/kohana-oauth2.git
+[submodule "kohana-hhvm"]
+	path = kohana-hhvm
+	url = git@github.com:birkir/kohana-hhvm.git
