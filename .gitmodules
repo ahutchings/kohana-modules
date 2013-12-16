@@ -178,9 +178,24 @@
 [submodule "jade"]
 	path = jade
 	url = https://github.com/pocesar/jade-kohana.git
+[submodule "alphamail"]
+	path = alphamail
+	url = https://github.com/colkito/kohana-alphamail.git
 [submodule "log-icq"]
 	path = log-icq
-	url = git://github.com/WinterSilence/kohana-log-icq
+	url = git://github.com/WinterSilence/kohana-log-icq.git
+[submodule "imagefly"]
+	path = imagefly
+	url = git://github.com/Bodom78/kohana-imagefly.git
+[submodule "log-writer-db"]
+	path = log-writer-db
+	url = git://github.com/Manc/kohana-log-database.git
 [submodule "meta-tags"]
 	path = meta-tags
-	url = git://github.com/WinterSilence/kohana-meta-tags
+	url = git://github.com/WinterSilence/kohana-meta-tags.git
+[submodule "oauth2"]
+	path = oauth2
+	url = https://github.com/paptamas/kohana-oauth2.git
+[submodule "kohana-hhvm"]
+	path = kohana-hhvm
+	url = git://github.com/birkir/kohana-hhvm.git
