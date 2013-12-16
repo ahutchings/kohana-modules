@@ -199,3 +199,6 @@
 [submodule "kohana-hhvm"]
 	path = kohana-hhvm
 	url = git://github.com/birkir/kohana-hhvm.git
+[submodule "tpl"]
+	path = tpl
+	url = https://github.com/WinterSilence/kohana-tpl
