@@ -199,3 +199,6 @@
 [submodule "kohana-hhvm"]
 	path = kohana-hhvm
 	url = git://github.com/birkir/kohana-hhvm.git
+[submodule "kohana-rastreador-ECT"]
+	path = kohana-rastreador-ECT
+	url = git@github.com:madeinnordeste/kohana-rastreador-ECT.git
