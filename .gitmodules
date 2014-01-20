@@ -199,3 +199,6 @@
 [submodule "kohana-hhvm"]
 	path = kohana-hhvm
 	url = git://github.com/birkir/kohana-hhvm.git
+[submodule "mailqueue"]
+	path = mailqueue
+	url = https://github.com/samwilson/kohana_mailqueue.git
