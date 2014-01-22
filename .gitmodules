@@ -205,3 +205,6 @@
 [submodule "tpl"]
 	path = tpl
 	url = https://github.com/WinterSilence/kohana-tpl.git
+[submodule "kohana-rastreador-ECT"]
+	path = kohana-rastreador-ECT
+	url = https://github.com/madeinnordeste/kohana-rastreador-ECT.git
