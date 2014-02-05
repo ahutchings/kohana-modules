@@ -292,3 +292,6 @@
 [submodule "aurora"]
 	path = aurora
 	url = git://github.com/enov/Aurora
+[submodule "kohana-elasticsearch"]
+	path = kohana-elasticsearch
+	url = git://github.com/mgalang/kohana-elasticsearch.git
