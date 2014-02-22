@@ -208,3 +208,6 @@
 [submodule "kohana-rastreador-ECT"]
 	path = kohana-rastreador-ECT
 	url = https://github.com/madeinnordeste/kohana-rastreador-ECT.git
+[submodule "kohana-mobile-detect"]
+	path = kohana-mobile-detect
+	url = https://github.com/madeinnordeste/kohana-mobile-detect.git
