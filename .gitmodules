@@ -211,3 +211,6 @@
 [submodule "kohana-mobile-detect"]
 	path = kohana-mobile-detect
 	url = https://github.com/madeinnordeste/kohana-mobile-detect.git
+[submodule "odm"]
+	path = odm
+	url = https://github.com/kaamaru/Kohana-MongoDB-ODM.git
