@@ -214,3 +214,6 @@
 [submodule "odm"]
 	path = odm
 	url = https://github.com/kaamaru/Kohana-MongoDB-ODM.git
+[submodule "kohana-cli"]
+	path = kohana-cli
+	url = git://github.com/WinterSilence/kohana-cli.git
