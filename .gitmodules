@@ -199,6 +199,18 @@
 [submodule "kohana-hhvm"]
 	path = kohana-hhvm
 	url = git://github.com/birkir/kohana-hhvm.git
+[submodule "mailqueue"]
+	path = mailqueue
+	url = https://github.com/samwilson/kohana_mailqueue.git
 [submodule "tpl"]
 	path = tpl
-	url = https://github.com/WinterSilence/kohana-tpl
+	url = https://github.com/WinterSilence/kohana-tpl.git
+[submodule "kohana-rastreador-ECT"]
+	path = kohana-rastreador-ECT
+	url = https://github.com/madeinnordeste/kohana-rastreador-ECT.git
+[submodule "kohana-mobile-detect"]
+	path = kohana-mobile-detect
+	url = https://github.com/madeinnordeste/kohana-mobile-detect.git
+[submodule "odm"]
+	path = odm
+	url = https://github.com/kaamaru/Kohana-MongoDB-ODM.git
