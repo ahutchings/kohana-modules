@@ -205,3 +205,6 @@
 [submodule "kohana-mobile-detect"]
 	path = kohana-mobile-detect
 	url = git@github.com:madeinnordeste/kohana-mobile-detect.git
+[submodule "kohana-net"]
+	path = kohana-net
+	url = git@github.com:madeinnordeste/kohana-net.git
