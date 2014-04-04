@@ -217,3 +217,6 @@
 [submodule "kohana-cli"]
 	path = kohana-cli
 	url = git://github.com/WinterSilence/kohana-cli.git
+[submodule "kohana-net"]
+	path = kohana-net
+	url = https://github.com/madeinnordeste/kohana-net.git
