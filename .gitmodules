@@ -208,3 +208,6 @@
 [submodule "kohana-net"]
 	path = kohana-net
 	url = git@github.com:madeinnordeste/kohana-net.git
+[submodule "modules/kohana-gnmessages"]
+	path = modules/kohana-gnmessages
+	url = git@github.com:madeinnordeste/kohana-gnmessages.git
