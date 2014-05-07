@@ -220,3 +220,6 @@
 [submodule "kohana-net"]
 	path = kohana-net
 	url = https://github.com/madeinnordeste/kohana-net.git
+[submodule "modules/kohana-gnmessages"]
+	path = modules/kohana-gnmessages
+	url = https://github.com/madeinnordeste/kohana-gnmessages.git
