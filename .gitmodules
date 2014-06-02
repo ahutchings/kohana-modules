@@ -199,9 +199,6 @@
 [submodule "kohana-hhvm"]
 	path = kohana-hhvm
 	url = git://github.com/birkir/kohana-hhvm.git
-[submodule "kohana-logreader"]
-	path = kohana-logreader
-	url = https://github.com/siloor/kohana-logreader.git
 [submodule "mailqueue"]
 	path = mailqueue
 	url = https://github.com/samwilson/kohana_mailqueue.git
@@ -229,3 +226,6 @@
 [submodule "modules/KoKo-Loader"]
 	path = modules/KoKo-Loader
 	url = https://github.com/Korotkin-Solutions/KoKo-Loader.git
+[submodule "kohana-logreader"]
+	path = kohana-logreader
+	url = https://github.com/siloor/kohana-logreader.git
