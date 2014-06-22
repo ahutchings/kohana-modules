@@ -229,3 +229,6 @@
 [submodule "kohana-logreader"]
 	path = kohana-logreader
 	url = https://github.com/siloor/kohana-logreader.git
+[submodule "orm-union"]
+	path = orm-union
+ 	url = https://github.com/Invision70/kohana-orm-union.git
