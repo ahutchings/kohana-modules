@@ -232,3 +232,6 @@
 [submodule "orm-union"]
 	path = orm-union
  	url = https://github.com/Invision70/kohana-orm-union.git
+[submodule "dbauth"]
+	path = dbauth
+	url = https://github.com/samwilson/kohana_dbauth.git
