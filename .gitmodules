@@ -235,3 +235,6 @@
 [submodule "dbauth"]
 	path = dbauth
 	url = https://github.com/samwilson/kohana_dbauth.git
+[submodule "kohana-formo"]
+	path = kohana-formo
+	url = https://github.com/bmidget/kohana-formo.git
