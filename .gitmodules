@@ -238,3 +238,6 @@
 [submodule "kohana-formo"]
 	path = kohana-formo
 	url = https://github.com/bmidget/kohana-formo.git
+[submodule "kohana-cron"]
+	path = kohana-cron
+	url = https://github.com/neo22s/kohana-modules.git
