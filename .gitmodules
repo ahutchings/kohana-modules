@@ -240,4 +240,4 @@
 	url = https://github.com/bmidget/kohana-formo.git
 [submodule "kohana-cron"]
 	path = kohana-cron
-	url = https://github.com/neo22s/kohana-cron.git
+	url = git://github.com/neo22s/kohana-cron.git
