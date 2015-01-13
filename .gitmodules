@@ -241,3 +241,6 @@
 [submodule "kohana-cron"]
 	path = kohana-cron
 	url = git://github.com/neo22s/kohana-cron.git
+[submodule "kohana-theme"]
+	path = kohana-theme
+	url = https://github.com/uda/kohana-theme.git
