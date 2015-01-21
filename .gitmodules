@@ -178,3 +178,30 @@
 [submodule "jade"]
 	path = jade
 	url = https://github.com/pocesar/jade-kohana.git
+[submodule "kohana-mpdf"]
+	path = kohana-mpdf
+	url = git://github.com/seyfer/kohana-mpdf.git
+[submodule "breadcrumbs"]
+	path = breadcrumbs
+	url = git://github.com/seyfer/breadcrumbs.git
+[submodule "kohana-devtools"]
+	path = kohana-devtools
+	url = git://github.com/seyfer/kohana-devtools.git
+[submodule "kohana-doctrine"]
+	path = kohana-doctrine
+	url = git://github.com/seyfer/kohana-doctrine.git
+[submodule "kohana-doctrine-migrations"]
+	path = kohana-doctrine-migrations
+	url = git://github.com/seyfer/kohana-doctrine-migrations.git
+[submodule "kohana-dynamic-structure"]
+	path = kohana-dynamic-structure
+	url = git://github.com/seyfer/kohana-dynamic-structure.git
+[submodule "kohana-minion-log"]
+	path = kohana-minion-log
+	url = git://github.com/seyfer/kohana-minion-log.git
+[submodule "kohana-orm-mptt"]
+	path = kohana-orm-mptt
+	url = git://github.com/seyfer/kohana-orm-mptt.git
+[submodule "kohana-pagination"]
+	path = kohana-pagination
+	url = git://github.com/seyfer/kohana-pagination.git
