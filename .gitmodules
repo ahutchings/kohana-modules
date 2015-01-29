@@ -295,3 +295,27 @@
 [submodule "kohana-elasticsearch"]
 	path = kohana-elasticsearch
 	url = git://github.com/mgalang/kohana-elasticsearch.git
+[submodule "kohana-mpdf"]
+	path = kohana-mpdf
+	url = https://github.com/seyfer/kohana-mpdf.git
+[submodule "kohana-breadcrumbs"]
+	path = kohana-breadcrumbs
+	url = https://github.com/seyfer/kohana-breadcrumbs.git
+[submodule "kohana-devtools"]
+	path = kohana-devtools
+	url = https://github.com/seyfer/kohana-devtools.git
+[submodule "kohana-doctrine"]
+	path = kohana-doctrine
+	url = https://github.com/seyfer/kohana-doctrine.git
+[submodule "kohana-doctrine-migrations"]
+	path = kohana-doctrine-migrations
+	url = https://github.com/seyfer/kohana-doctrine-migrations.git
+[submodule "kohana-dynamic-structure"]
+	path = kohana-dynamic-structure
+	url = https://github.com/seyfer/kohana-dynamic-structure.git
+[submodule "kohana-minion-log"]
+	path = kohana-minion-log
+	url = https://github.com/seyfer/kohana-minion-log.git
+[submodule "kohana-orm-mptt"]
+	path = kohana-orm-mptt
+	url = https://github.com/seyfer/kohana-orm-mptt.git
