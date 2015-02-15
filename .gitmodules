@@ -271,3 +271,27 @@
 [submodule "kohana-breadcrumbs"]
 	path = kohana-breadcrumbs
 	url = https://github.com/seyfer/kohana-breadcrumbs.git
+[submodule "kohana-media"]
+	path = kohana-media
+	url = https://github.com/davidstutz/kohana-media.git
+[submodule "kohana-red"]
+	path = kohana-red
+	url = https://github.com/davidstutz/kohana-red.git
+[submodule "kohana-yellow"]
+	path = kohana-yellow
+	url = https://github.com/davidstutz/kohana-yellow.git
+[submodule "kohana-navigation"]
+	path = kohana-navigation
+	url = https://github.com/davidstutz/kohana-navigation.git
+[submodule "kohana-hooks"]
+	path = kohana-hooks
+	url = https://github.com/davidstutz/kohana-hooks.git
+[submodule "kohana-green"]
+	path = kohana-green
+	url = https://github.com/davidstutz/kohana-green.git
+[submodule "kohana-gaps"]
+	path = kohana-gaps
+	url = https://github.com/davidstutz/kohana-gaps.git
+[submodule "kohana-blue"]
+	path = kohana-blue
+	url = https://github.com/davidstutz/kohana-blue.git
