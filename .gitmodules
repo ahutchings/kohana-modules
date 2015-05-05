@@ -295,3 +295,6 @@
 [submodule "kohana-blue"]
 	path = kohana-blue
 	url = https://github.com/davidstutz/kohana-blue.git
+[submodule "kohana-rediscache"]
+	path = kohana-rediscache
+	url = https://github.com/bkhrupa/kohana-rediscache.git
