@@ -298,3 +298,6 @@
 [submodule "kohana-rediscache"]
 	path = kohana-rediscache
 	url = https://github.com/bkhrupa/kohana-rediscache.git
+[submodule "phpredis"]
+	path = phpredis
+	url = https://github.com/Xackery/kohana-phpredis
