@@ -130,3 +130,6 @@
 [submodule "googleapi-kohana"]
 	path = googleapi-kohana
 	url = git://github.com/pocesar/googleapi-kohana.git
+[submodule "kohana-phonenumber"]
+	path = kohana-phonenumber
+	url = https://github.com/softmediadev/kohana-phonenumber
