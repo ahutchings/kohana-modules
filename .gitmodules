@@ -298,3 +298,9 @@
 [submodule "kohana-rediscache"]
 	path = kohana-rediscache
 	url = https://github.com/bkhrupa/kohana-rediscache.git
+[submodule "kohana-MPTT"]
+	path = kohana-MPTT
+	url = https://github.com/pelevesque/kohana-MPTT.git
+[submodule "kohana-Lieux"]
+	path = kohana-Lieux
+	url = https://github.com/pelevesque/kohana-Lieux.git
