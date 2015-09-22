@@ -307,3 +307,6 @@
 [submodule "kohana-phonenumber"]
 	path = kohana-phonenumber
 	url = https://github.com/softmediadev/kohana-phonenumber.git
+[submodule "phpredis"]
+	path = phpredis
+	url = https://github.com/Xackery/kohana-phpredis.git
