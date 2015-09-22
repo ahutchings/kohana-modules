@@ -304,3 +304,6 @@
 [submodule "kohana-Lieux"]
 	path = kohana-Lieux
 	url = https://github.com/pelevesque/kohana-Lieux.git
+[submodule "kohana-phonenumber"]
+	path = kohana-phonenumber
+	url = https://github.com/softmediadev/kohana-phonenumber
