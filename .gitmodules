@@ -310,3 +310,6 @@
 [submodule "phpredis"]
 	path = phpredis
 	url = https://github.com/Xackery/kohana-phpredis.git
+[submodule "kohana-phpmailer"]
+	path = kohana-phpmailer
+	url = https://github.com/timophey/kohana-phpmailer.git
